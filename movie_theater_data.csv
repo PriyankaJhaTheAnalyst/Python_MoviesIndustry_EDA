@@ -1,0 +1,1001 @@
+,title,max_theaters,year,total_dom_gross($),studio
+0,The Lion King,4802,2019,543638043,Disney
+1,Avengers: Endgame,4662,2019,858373000,Disney
+2,Spider-Man: Far from Home,4634,2019,390532085,Sony
+3,Toy Story 4,4575,2019,434038008,Disney
+4,It Chapter Two,4570,2019,211593228,Warner Bros.
+5,The Secret Life of Pets 2,4564,2019,158874395,Universal Pictures
+6,Despicable Me 3,4535,2017,264624300,Universal Pictures
+7,Jurassic World: Fallen Kingdom,4485,2018,417719760,Universal Pictures
+8,Aladdin,4476,2019,355559216,Disney
+9,Avengers: Infinity War,4474,2018,678815482,Disney
+10,Frozen II,4440,2019,477373578,Disney
+11,Incredibles 2,4410,2018,608581744,Disney
+12,Star Wars: Episode IX - The Rise of Skywalker,4406,2019,515202542,Disney
+13,The Dark Knight Rises,4404,2012,448139099,Warner Bros.
+14,Mission: Impossible - Fallout,4395,2018,220159104,Paramount Pictures
+15,Iron Man 2,4390,2010,312433331,Paramount Pictures
+16,The Secret Life of Pets,4381,2016,368384330,Universal Pictures
+17,Solo: A Star Wars Story,4381,2018,213767512,Disney
+18,Harry Potter and the Deathly Hallows: Part 2,4375,2011,381011219,Warner Bros.
+19,Joker,4374,2019,335451311,Warner Bros.
+20,The Dark Knight,4366,2008,533345358,Warner Bros.
+21,Pirates of the Caribbean: At World's End,4362,2007,309420425,Disney
+22,The Avengers,4349,2012,623357910,Disney
+23,Deadpool 2,4349,2018,318491426,Twentieth Century Fox
+24,Spider-Man: Homecoming,4348,2017,334201140,Sony
+25,Guardians of the Galaxy Vol. 2,4347,2017,389813101,Disney
+26,Fast & Furious Presents: Hobbs & Shaw,4344,2019,173956935,Universal Pictures
+27,The Fate of the Furious,4329,2017,226008385,Universal Pictures
+28,Spider-Man 3,4324,2007,336530303,Sony
+29,The Amazing Spider-Man 2,4324,2014,202853933,Sony
+30,The Amazing Spider-Man,4318,2012,262030663,Sony
+31,Minions,4311,2015,336045770,Universal Pictures
+32,Captain Marvel,4310,2019,426829839,Disney
+33,Onward,4310,2020,61555145,Disney
+34,Shazam!,4306,2019,140371656,Warner Bros.
+35,Finding Dory,4305,2016,486295561,Disney
+36,The Lego Movie 2: The Second Part,4303,2019,105806508,Warner Bros.
+37,Jurassic World,4291,2015,652270625,Universal Pictures
+38,How to Train Your Dragon: The Hidden World,4286,2019,160799505,Universal Pictures
+39,Harry Potter and the Order of the Phoenix,4285,2007,292004738,Warner Bros.
+40,Avengers: Age of Ultron,4276,2015,459005868,Disney
+41,Pirates of the Caribbean: Dead Men Tell No Tales,4276,2017,172558876,Disney
+42,How to Train Your Dragon 2,4268,2014,177002924,Twentieth Century Fox
+43,Hotel Transylvania 3: Summer Vacation,4267,2018,167510016,Sony
+44,Indiana Jones and the Kingdom of the Crystal Skull,4264,2008,317101119,Paramount Pictures
+45,Dumbo,4259,2019,114766307,Disney
+46,Batman v Superman: Dawn of Justice,4256,2016,330360194,Warner Bros.
+47,Cars 3,4256,2017,152901115,Disney
+48,Suicide Squad,4255,2016,325100054,Warner Bros.
+49,Iron Man 3,4253,2013,409013994,Disney
+50,Venom,4250,2018,213515506,Sony
+51,Men in Black 3,4248,2012,179020854,Sony
+52,Pokémon Detective Pikachu,4248,2019,144105346,Warner Bros.
+53,Abominable,4248,2019,60716390,Universal Pictures
+54,Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn,4236,2020,84158461,Warner Bros.
+55,Ready Player One,4234,2018,137690172,Warner Bros.
+56,Transformers: Age of Extinction,4233,2014,245439076,Paramount Pictures
+57,Star Wars: Episode VIII - The Last Jedi,4232,2017,620181382,Disney
+58,Jumanji: The Next Level,4227,2019,316831246,Sony
+59,Captain America: Civil War,4226,2016,408084349,Disney
+60,Men in Black: International,4224,2019,80001807,Sony
+61,Shrek 2,4223,2004,441226247,DreamWorks Distribution
+62,Beauty and the Beast,4210,2017,504014165,Disney
+63,Man of Steel,4207,2013,291045518,Warner Bros.
+64,Ant-Man and the Wasp,4206,2018,216648740,Disney
+65,Sonic the Hedgehog,4198,2020,146066470,Paramount Pictures
+66,Aquaman,4184,2019,335061807,Warner Bros.
+67,The Hunger Games: Mockingjay - Part 2,4175,2015,281723902,Lionsgate
+68,Spider-Man 2,4166,2004,373585825,Sony
+69,Wonder Woman,4165,2017,412563408,Warner Bros.
+70,Pirates of the Caribbean: On Stranger Tides,4164,2011,241071802,Disney
+71,Brave,4164,2012,237283207,Disney
+72,The Hunger Games: Catching Fire,4163,2013,424668047,Lionsgate
+73,Fantastic Beasts: The Crimes of Grindelwald,4163,2018,159555901,Warner Bros.
+74,Inside Out,4158,2015,356461711,Disney
+75,Rogue One: A Star Wars Story,4157,2016,532177324,Disney
+76,Dolittle,4155,2020,77047065,Universal Pictures
+77,Iron Man,4154,2008,318604126,Paramount Pictures
+78,X-Men: Apocalypse,4153,2016,155442489,Twentieth Century Fox
+79,The Hunger Games: Mockingjay - Part 1,4151,2014,337135885,Lionsgate
+80,It,4148,2017,327481748,Warner Bros.
+81,Ocean's 8,4145,2018,140218711,Warner Bros.
+82,The Jungle Book,4144,2016,364001123,Disney
+83,Fantastic Beasts and Where to Find Them,4144,2016,234037575,Warner Bros.
+84,Madagascar,4142,2005,193595521,DreamWorks Distribution
+85,The Grinch,4141,2018,270620950,Universal Pictures
+86,The Hunger Games,4137,2012,408010692,Lionsgate
+87,Star Wars: Episode VII - The Force Awakens,4134,2015,936662225,Disney
+88,Pirates of the Caribbean: Dead Man's Chest,4133,2006,423315812,Disney
+89,Transformers: The Last Knight,4132,2017,130168683,Paramount Pictures
+90,Smallfoot,4131,2018,83240103,Warner Bros.
+91,Independence Day: Resurgence,4130,2016,103144286,Twentieth Century Fox
+92,Harry Potter and the Deathly Hallows: Part 1,4125,2010,295983305,Warner Bros.
+93,The Meg,4118,2018,145443742,Warner Bros.
+94,Cars 2,4115,2011,191452396,Disney
+95,Rampage,4115,2018,101028233,Warner Bros.
+96,Godzilla: King of the Monsters,4108,2019,110500138,Warner Bros.
+97,X-Men Origins: Wolverine,4102,2009,179883157,Twentieth Century Fox
+98,Ice Age: Dawn of the Dinosaurs,4102,2009,196573705,Twentieth Century Fox
+99,Night at the Museum: Battle of the Smithsonian,4101,2009,177243721,Twentieth Century Fox
+100,The Hobbit: An Unexpected Journey,4100,2012,303003568,Warner Bros.
+101,War for the Planet of the Apes,4100,2017,146880162,Twentieth Century Fox
+102,Mary Poppins Returns,4090,2018,171958438,Disney
+103,Guardians of the Galaxy,4088,2014,333176600,Disney
+104,The Lego Batman Movie,4088,2017,175750384,Warner Bros.
+105,Terminator: Dark Fate,4086,2019,62253077,Paramount Pictures
+106,Black Panther,4084,2018,700059566,Disney
+107,Thor: Ragnarok,4080,2017,315058289,Disney
+108,The Emoji Movie,4075,2017,86089513,Sony
+109,Teenage Mutant Ninja Turtles: Out of the Shadows,4071,2016,82051601,Paramount Pictures
+110,Logan,4071,2017,226277068,Twentieth Century Fox
+111,Shark Tale,4070,2004,160861908,DreamWorks Distribution
+112,The Twilight Saga: Breaking Dawn - Part 2,4070,2012,292324737,Lionsgate
+113,The Predator,4070,2018,51024708,Twentieth Century Fox
+114,Trolls,4066,2016,153707064,Twentieth Century Fox
+115,Superman Returns,4065,2006,200081192,Warner Bros.
+116,The Croods,4065,2013,187168425,Twentieth Century Fox
+117,Mission: Impossible III,4059,2006,134029801,Paramount Pictures
+118,Blade Runner 2049,4058,2017,92054159,Warner Bros.
+119,Star Trek,4053,2009,257730019,Paramount Pictures
+120,Justice League,4051,2017,229024295,Warner Bros.
+121,The Lego Ninjago Movie,4047,2017,59281555,Warner Bros.
+122,Jason Bourne,4039,2016,162434410,Universal Pictures
+123,Kingsman: The Golden Circle,4038,2017,100229647,Twentieth Century Fox
+124,The Mummy,4035,2017,80227895,Universal Pictures
+125,Sing,4029,2017,270395425,Universal Pictures
+126,Toy Story 3,4028,2010,415004880,Disney
+127,Furious 7,4022,2015,353007020,Universal Pictures
+128,Ralph Breaks the Internet,4017,2018,201091711,Disney
+129,Dunkirk,4014,2017,188045546,Warner Bros.
+130,G.I. Joe: The Rise of Cobra,4007,2009,150201498,Paramount Pictures
+131,Monsters University,4004,2013,268492764,Disney
+132,Fantastic Four,4004,2015,56117548,Twentieth Century Fox
+133,Despicable Me 2,4003,2013,368065385,Universal Pictures
+134,Cloudy With a Chance of Meatballs 2,4001,2013,119793567,Sony
+135,X-Men: Days of Future Past,4001,2014,233921534,Twentieth Century Fox
+136,Bohemian Rhapsody,4000,2018,216428042,Twentieth Century Fox
+137,Ice Age: Collision Course,3997,2016,64063008,Twentieth Century Fox
+138,WALL·E,3992,2008,223808164,Disney
+139,Halloween,3990,2018,159342015,Universal Pictures
+140,Cars,3988,2006,244082982,Disney
+141,Mission: Impossible - Rogue Nation,3988,2015,195042377,Paramount Pictures
+142,Kung Fu Panda 3,3987,2016,143528619,Twentieth Century Fox
+143,Coco,3987,2017,209726015,Disney
+144,1917,3987,2020,159227644,Universal Pictures
+145,Teenage Mutant Ninja Turtles,3980,2014,191204754,Paramount Pictures
+146,A Wrinkle in Time,3980,2018,100478608,Disney
+147,Rio 2,3975,2014,131538435,Twentieth Century Fox
+148,Tomorrowland,3972,2015,93436322,Disney
+149,Ice Age: The Meltdown,3969,2006,195330621,Twentieth Century Fox
+150,Dawn of the Planet of the Apes,3969,2014,208545589,Twentieth Century Fox
+151,Hancock,3965,2008,227946274,Sony
+152,Fantastic 4: Rise of the Silver Surfer,3963,2007,131921738,Twentieth Century Fox
+153,Thor,3963,2011,181030624,Paramount Pictures
+154,Ghostbusters,3963,2016,128350574,Sony
+155,Horton Hears a Who!,3961,2008,154529439,Twentieth Century Fox
+156,Zootopia,3959,2016,341268248,Disney
+157,Sully,3955,2016,125070033,Warner Bros.
+158,Godzilla,3952,2014,200676069,Warner Bros.
+159,Mr. Peabody & Sherman,3951,2014,111506430,Twentieth Century Fox
+160,Maleficent,3948,2014,241410378,Disney
+161,Ratatouille,3940,2007,206445654,Disney
+162,Captain America: The Winter Soldier,3938,2014,259766572,Disney
+163,Divergent,3936,2014,150947895,Lionsgate
+164,The Incredibles,3933,2004,261441092,Disney
+165,The Angry Birds Movie,3932,2016,107509366,Sony
+166,The Chronicles of Narnia: Prince Caspian,3929,2008,141621490,Disney
+167,Spectre,3929,2015,200074609,Sony
+168,The Hobbit: The Desolation of Smaug,3928,2013,258366855,Warner Bros.
+169,Star Trek Beyond,3928,2016,158848340,Paramount Pictures
+170,The Simpsons Movie,3926,2007,183135014,Twentieth Century Fox
+171,The Wolverine,3924,2013,132556852,Twentieth Century Fox
+172,Rango,3923,2011,123477607,Paramount Pictures
+173,Storks,3922,2016,72679278,Warner Bros.
+174,Get Smart,3915,2008,130319208,Warner Bros.
+175,Night at the Museum: Secret of the Tomb,3914,2014,113746621,Twentieth Century Fox
+176,The Call of the Wild,3914,2020,62342368,Twentieth Century Fox
+177,Oz The Great and Powerful,3912,2013,234911825,Disney
+178,War of the Worlds,3910,2005,234280354,Paramount Pictures
+179,Star Trek Into Darkness,3907,2013,228778661,Paramount Pictures
+180,The Lone Ranger,3904,2013,89302115,Disney
+181,A Star Is Born,3904,2018,215288866,Warner Bros.
+182,The Peanuts Movie,3902,2015,130178411,Twentieth Century Fox
+183,Epic,3894,2013,107518682,Twentieth Century Fox
+184,The Lego Movie,3890,2014,257760692,Warner Bros.
+185,Up,3886,2009,293004164,Disney
+186,Ice Age: Continental Drift,3886,2012,161321843,Twentieth Century Fox
+187,American Sniper,3885,2015,350126372,Warner Bros.
+188,Doctor Strange,3882,2016,232641920,Disney
+189,Spider-Man,3876,2002,403706375,Sony
+190,The Nun,3876,2018,117450119,Warner Bros.
+191,The Hobbit: The Battle of the Five Armies,3875,2014,255119788,Warner Bros.
+192,The Divergent Series: Insurgent,3875,2015,130179072,Lionsgate
+193,Moana,3875,2016,248757044,Disney
+194,The Angry Birds Movie 2,3869,2019,41667116,Sony
+195,Ant-Man,3868,2015,180202163,Disney
+196,The Smurfs 2,3867,2013,71017784,Sony
+197,Crazy Rich Asians,3865,2018,174532921,Warner Bros.
+198,Batman Begins,3858,2005,205343774,Warner Bros.
+199,Harry Potter and the Goblet of Fire,3858,2005,290013036,Warner Bros.
+200,Deadpool,3856,2016,363070709,Twentieth Century Fox
+201,Harry Potter and the Prisoner of Azkaban,3855,2004,249541069,Warner Bros.
+202,Doctor Sleep,3855,2019,31581712,Warner Bros.
+203,The Martian,3854,2015,228433663,Twentieth Century Fox
+204,Tomb Raider,3854,2018,58250803,Warner Bros.
+205,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",3853,2005,291710957,Disney
+206,John Wick: Chapter 3 - Parabellum,3850,2019,171015687,Lionsgate
+207,Jumanji: Welcome to the Jungle,3849,2018,404515480,Sony
+208,Cinderella,3848,2015,201151353,Disney
+209,The Spiderwick Chronicles,3847,2008,71195053,Paramount Pictures
+210,Kong: Skull Island,3846,2017,168052812,Warner Bros.
+211,Glass,3844,2019,111048468,Universal Pictures
+212,Rio,3842,2011,143619809,Twentieth Century Fox
+213,Thor: The Dark World,3841,2013,206362140,Disney
+214,Planes: Fire & Rescue,3839,2014,59165787,Disney
+215,Wonder Park,3838,2019,45216793,Paramount Pictures
+216,Miss Peregrine's Home for Peculiar Children,3835,2016,87242834,Twentieth Century Fox
+217,Open Season,3833,2006,85105259,Sony
+218,National Treasure: Book of Secrets,3832,2007,219964115,Disney
+219,The Boss Baby,3829,2017,175003033,Twentieth Century Fox
+220,Skyscraper,3822,2018,68420120,Universal Pictures
+221,Gravity,3820,2013,274092705,Warner Bros.
+222,Maleficent: Mistress of Evil,3820,2019,113929605,Disney
+223,Green Lantern,3816,2011,116601172,Warner Bros.
+224,Spider-Man: Into the Spider-Verse,3813,2018,190241310,Sony
+225,San Andreas,3812,2015,155190832,Warner Bros.
+226,Turbo,3809,2013,83028128,Twentieth Century Fox
+227,A Quiet Place,3808,2018,188024361,Paramount Pictures
+228,Talladega Nights: The Ballad of Ricky Bobby,3807,2006,148213377,Sony
+229,Happy Feet,3804,2006,198000317,Warner Bros.
+230,Clash of the Titans,3802,2010,163214888,Warner Bros.
+231,The Huntsman: Winter's War,3802,2016,48390190,Universal Pictures
+232,Alita: Battle Angel,3802,2019,85710210,Twentieth Century Fox
+233,Home,3801,2015,177397510,Twentieth Century Fox
+234,Fast Five,3793,2011,209837675,Universal Pictures
+235,Maze Runner: The Death Cure,3793,2018,58032443,Twentieth Century Fox
+236,Inception,3792,2010,292576195,Warner Bros.
+237,Oblivion,3792,2013,89107235,Universal Pictures
+238,Maze Runner: The Scorch Trials,3792,2015,81697192,Twentieth Century Fox
+239,Charlie and the Chocolate Factory,3790,2005,206459076,Warner Bros.
+240,The Dukes of Hazzard,3785,2005,80270227,Warner Bros.
+241,Terminator Genisys,3783,2015,89760956,Paramount Pictures
+242,Jack Reacher: Never Go Back,3780,2016,58697076,Paramount Pictures
+243,The Mummy: Tomb of the Dragon Emperor,3778,2008,102491776,Universal Pictures
+244,Snow White and the Huntsman,3777,2012,155332381,Universal Pictures
+245,Robots,3776,2005,128200012,Twentieth Century Fox
+246,Penguins of Madagascar,3775,2014,83850911,Twentieth Century Fox
+247,Bad Boys for Life,3775,2020,204417855,Sony
+248,Big Hero 6,3773,2014,222527828,Disney
+249,Alien: Covenant,3772,2017,74262031,Twentieth Century Fox
+250,Fast & Furious 6,3771,2013,238679850,Universal Pictures
+251,The Lorax,3769,2012,214030500,Universal Pictures
+252,Night at the Museum,3768,2006,250863268,Twentieth Century Fox
+253,Hotel Transylvania 2,3768,2015,169700110,Sony
+254,Fifty Shades Freed,3768,2018,100407760,Universal Pictures
+255,The Nutcracker and the Four Realms,3766,2018,54858851,Disney
+256,Alice Through the Looking Glass,3763,2016,77041381,Disney
+257,The Da Vinci Code,3757,2006,217536138,Sony
+258,Dark Shadows,3755,2012,79727149,Warner Bros.
+259,Cowboys & Aliens,3754,2011,100240551,Universal Pictures
+260,The Bourne Legacy,3753,2012,113203870,Universal Pictures
+261,Wreck-It Ralph,3752,2012,189422889,Disney
+262,Creed II,3752,2018,115715889,Metro-Goldwyn-Mayer (MGM)
+263,X2: X-Men United,3749,2003,214949694,Twentieth Century Fox
+264,John Carter,3749,2012,73078100,Disney
+265,The Good Dinosaur,3749,2015,123087120,Disney
+266,Alvin and the Chipmunks: The Squeakquel,3747,2010,219614612,Twentieth Century Fox
+267,Ford v Ferrari,3746,2019,117624357,Twentieth Century Fox
+268,Charlotte's Web,3745,2006,82985708,Paramount Pictures
+269,Us,3743,2019,175084580,Universal Pictures
+270,Frozen,3742,2013,400738009,Disney
+271,The Karate Kid,3740,2010,176591618,Sony
+272,Allegiant,3740,2016,66184051,Lionsgate
+273,Alice in Wonderland,3739,2010,334191110,Disney
+274,Where the Wild Things Are,3735,2009,77233467,Warner Bros.
+275,Dora and the Lost City of Gold,3735,2019,60477943,Paramount Pictures
+276,G.I. Joe: Retaliation,3734,2013,122523060,Paramount Pictures
+277,The Village,3733,2004,114197520,Disney
+278,Enchanted,3730,2007,127807262,Disney
+279,Peter Rabbit,3725,2018,115253424,Sony
+280,Pixels,3723,2015,78747585,Sony
+281,Goosebumps 2: Haunted Halloween,3723,2018,46700633,Sony
+282,Mad Max: Fury Road,3722,2015,153636354,Warner Bros.
+283,X-Men: Dark Phoenix,3721,2019,65845974,Twentieth Century Fox
+284,Planes,3716,2013,90288712,Disney
+285,Shrek,3715,2001,267665011,DreamWorks Distribution
+286,Captain America: The First Avenger,3715,2011,176654505,Paramount Pictures
+287,Spy,3715,2015,110825712,Twentieth Century Fox
+288,X-Men: The Last Stand,3714,2006,234362462,Twentieth Century Fox
+289,Fifty Shades Darker,3714,2017,114581250,Universal Pictures
+290,The Revenant,3711,2016,183637894,Twentieth Century Fox
+291,Pacific Rim: Uprising,3708,2018,59874525,Universal Pictures
+292,Taken 2,3706,2012,139854287,Twentieth Century Fox
+293,Cats & Dogs: The Revenge of Kitty Galore,3705,2010,43585753,Warner Bros.
+294,Alvin and the Chipmunks: The Road Chip,3705,2015,85886987,Twentieth Century Fox
+295,The Lord of the Rings: The Return of the King,3703,2003,377027325,New Line Cinema
+296,Sherlock Holmes: A Game of Shadows,3703,2011,186848418,Warner Bros.
+297,Battleship,3702,2012,65422625,Universal Pictures
+298,Pete's Dragon,3702,2016,76233151,Disney
+299,King Arthur: Legend of the Sword,3702,2017,39175066,Warner Bros.
+300,Paddington 2,3702,2018,40891591,Warner Bros.
+301,The Bourne Ultimatum,3701,2007,227471070,Universal Pictures
+302,G-Force,3697,2009,119436770,Disney
+303,The Magnificent Seven,3696,2016,93432655,Sony
+304,Power Rangers,3693,2017,85364450,Lionsgate
+305,X-Men: First Class,3692,2011,146408305,Twentieth Century Fox
+306,Rise of the Planet of the Apes,3691,2011,176760185,Twentieth Century Fox
+307,Bedtime Stories,3684,2009,110101975,Disney
+308,A Christmas Carol,3683,2009,137855863,Disney
+309,Harry Potter and the Chamber of Secrets,3682,2002,261988482,Warner Bros.
+310,The SpongeBob Movie: Sponge Out of Water,3680,2015,162994032,Paramount Pictures
+311,Little Fockers,3675,2011,148438600,Universal Pictures
+312,The Hangover Part II,3675,2011,254464305,Warner Bros.
+313,Hulk,3674,2003,132177234,Universal Pictures
+314,Fast & Furious,3674,2009,155064265,Universal Pictures
+315,The Man from U.N.C.L.E.,3673,2015,45445109,Warner Bros.
+316,Harry Potter and the Sorcerer's Stone,3672,2001,317575550,Warner Bros.
+317,Mission: Impossible II,3669,2000,215409889,Paramount Pictures
+318,Valentine's Day,3665,2010,110485654,Warner Bros.
+319,Star Wars: Episode III - Revenge of the Sith,3663,2005,380270577,Twentieth Century Fox
+320,Sherlock Gnomes,3662,2018,43242871,Paramount Pictures
+321,Pitch Perfect 2,3660,2015,184296230,Universal Pictures
+322,Once Upon a Time... in Hollywood,3659,2019,142502728,Sony
+323,Chicken Little,3658,2005,135386665,Disney
+324,Wallace & Gromit: The Curse of the Were-Rabbit,3656,2005,56110897,DreamWorks Distribution
+325,Dolphin Tale 2,3656,2014,42024533,Warner Bros.
+326,Life of the Party,3656,2018,53059911,Warner Bros.
+327,Fifty Shades of Grey,3655,2015,166167230,Universal Pictures
+328,The Longest Yard,3654,2005,158119460,Paramount Pictures
+329,Bolt,3654,2008,114053579,Disney
+330,RV,3651,2006,71726025,Sony
+331,The Other Guys,3651,2010,119219978,Sony
+332,xXx: Return of Xander Cage,3651,2017,44898413,Paramount Pictures
+333,The Polar Express,3650,2004,162775358,Warner Bros.
+334,"Monsters, Inc.",3649,2001,255873250,Disney
+335,I Am Legend,3648,2008,256393010,Warner Bros.
+336,Baywatch,3647,2017,58060186,Paramount Pictures
+337,Prince of Persia: The Sands of Time,3646,2010,90759676,Disney
+338,Gemini Man,3642,2019,48546770,Paramount Pictures
+339,Men in Black II,3641,2002,190418803,Sony
+340,First Man,3640,2018,44936545,Universal Pictures
+341,The Maze Runner,3638,2014,102427862,Twentieth Century Fox
+342,Evan Almighty,3636,2007,100462298,Universal Pictures
+343,The Invisible Man,3636,2020,64914050,Universal Pictures
+344,Paul Blart: Mall Cop 2,3633,2015,71038190,Sony
+345,Ferdinand,3630,2017,84410380,Twentieth Century Fox
+346,King Kong,3627,2006,218080025,Universal Pictures
+347,High School Musical 3,3626,2008,90559416,Disney
+348,Sherlock Holmes,3626,2009,209028679,Warner Bros.
+349,Lemony Snicket's A Series of Unfortunate Events,3623,2004,118634549,Paramount Pictures
+350,The Lord of the Rings: The Two Towers,3622,2002,339789881,New Line Cinema
+351,Ghost Rider,3620,2007,115802596,Sony
+352,Fantastic Four,3619,2005,154696080,Twentieth Century Fox
+353,Goosebumps,3618,2015,80080379,Sony
+354,Rambo: Last Blood,3618,2019,44819352,Lionsgate
+355,Hop,3616,2011,108085305,Universal Pictures
+356,Austin Powers in Goldmember,3613,2002,213307889,New Line Cinema
+357,Annabelle Comes Home,3613,2019,74152591,Warner Bros.
+358,50 First Dates,3612,2004,120908074,Sony
+359,Salt,3612,2010,118311368,Sony
+360,Watchmen,3611,2009,107509799,Warner Bros.
+361,Happy Feet Two,3611,2011,64006466,Warner Bros.
+362,Smurfs: The Lost Village,3610,2017,45020282,Sony
+363,Rocketman,3610,2019,96368160,Paramount Pictures
+364,World War Z,3607,2013,202359711,Paramount Pictures
+365,Speed Racer,3606,2008,43945766,Warner Bros.
+366,The Matrix Reloaded,3603,2003,281576461,Warner Bros.
+367,Fred Claus,3603,2007,72006777,Warner Bros.
+368,Tangled,3603,2010,200821936,Disney
+369,Terminator Salvation,3602,2009,125322469,Warner Bros.
+370,Despicable Me,3602,2010,251513985,Universal Pictures
+371,Christopher Robin,3602,2018,99215042,Disney
+372,Total Recall,3601,2012,58877969,Sony
+373,Wall Street: Money Never Sleeps,3597,2010,52474616,Twentieth Century Fox
+374,Bumblebee,3597,2019,127195589,Paramount Pictures
+375,Hercules,3595,2014,72688614,Paramount Pictures
+376,Taken 3,3594,2015,89256424,Twentieth Century Fox
+377,The House with a Clock in Its Walls,3592,2018,68549695,Universal Pictures
+378,The Legend of Tarzan,3591,2016,126643061,Warner Bros.
+379,Pet Sematary,3585,2019,54724696,Paramount Pictures
+380,The Green Hornet,3584,2011,98780042,Sony
+381,Van Helsing,3580,2004,120177084,Universal Pictures
+382,Inferno,3576,2016,34343574,Sony
+383,Hitch,3575,2005,179495555,Sony
+384,Legend of the Guardians: The Owls of Ga'Hoole,3575,2010,55675313,Warner Bros.
+385,Daddy's Home 2,3575,2017,104029443,Paramount Pictures
+386,Noah,3571,2014,101200044,Paramount Pictures
+387,The Lost World: Jurassic Park,3565,1997,229086679,Universal Pictures
+388,Ocean's Thirteen,3565,2007,117154724,Warner Bros.
+389,The Hangover Part III,3565,2013,112200072,Warner Bros.
+390,Annabelle: Creation,3565,2017,102092201,Warner Bros.
+391,Interstellar,3561,2014,188020017,Paramount Pictures
+392,The Day the Earth Stood Still,3560,2008,79366978,Twentieth Century Fox
+393,Poseidon,3555,2006,60674817,Warner Bros.
+394,The Chronicles of Narnia: The Voyage of the Dawn Treader,3555,2010,104386950,Twentieth Century Fox
+395,Footloose,3555,2011,51802742,Paramount Pictures
+396,Mission: Impossible - Ghost Protocol,3555,2012,209397903,Paramount Pictures
+397,A Good Day to Die Hard,3555,2013,67349198,Twentieth Century Fox
+398,Blended,3555,2014,46294610,Warner Bros.
+399,Meet the Fockers,3554,2005,279261160,Universal Pictures
+400,The Mummy Returns,3553,2001,202019785,Universal Pictures
+401,Monster House,3553,2006,73661010,Sony
+402,The Great Gatsby,3550,2013,144840419,Warner Bros.
+403,Bruce Almighty,3549,2003,242829261,Universal Pictures
+404,Just Go with It,3548,2011,103028109,Sony
+405,The Hangover,3545,2009,277322503,Warner Bros.
+406,Wrath of the Titans,3545,2012,83670083,Warner Bros.
+407,The A-Team,3544,2010,77222099,Twentieth Century Fox
+408,Just Like Heaven,3543,2005,48318130,DreamWorks Distribution
+409,Four Christmases,3540,2008,120146040,Warner Bros.
+410,Happy Death Day,3535,2017,55683845,Universal Pictures
+411,Land of the Lost,3534,2009,49438370,Universal Pictures
+412,Grown Ups,3534,2010,162001186,Sony
+413,Surf's Up,3531,2007,58867694,Sony
+414,Planet of the Apes,3530,2001,180011740,Twentieth Century Fox
+415,Captain Underpants: The First Epic Movie,3529,2017,73921000,Twentieth Century Fox
+416,The Kid Who Would Be King,3528,2019,16790790,Twentieth Century Fox
+417,Angels & Demons,3527,2009,133375846,Sony
+418,Skyfall,3526,2012,304360277,Sony
+419,Jack the Giant Slayer,3525,2013,65187603,Warner Bros.
+420,Herbie Fully Loaded,3521,2005,66023816,Disney
+421,The Legend of Zorro,3520,2005,46464023,Sony
+422,Wonder,3519,2017,132422809,Lionsgate
+423,Nim's Island,3518,2008,48006762,Twentieth Century Fox
+424,Yogi Bear,3515,2010,100246011,Warner Bros.
+425,Dolphin Tale,3515,2011,72286779,Warner Bros.
+426,Pan,3515,2015,35088320,Warner Bros.
+427,Mamma Mia! Here We Go Again,3514,2018,120634935,Universal Pictures
+428,Snatched,3511,2017,45852178,Twentieth Century Fox
+429,Gridiron Gang,3510,2006,38432823,Sony
+430,The Incredible Hulk,3508,2008,134806913,Universal Pictures
+431,Central Intelligence,3508,2016,127440871,Warner Bros.
+432,Anchorman 2: The Legend Continues,3507,2013,125168368,Paramount Pictures
+433,Marley & Me,3505,2009,143153751,Twentieth Century Fox
+434,Robin Hood,3505,2010,105269730,Universal Pictures
+435,New Year's Eve,3505,2011,54544638,Warner Bros.
+436,Edge of Tomorrow,3505,2014,100206256,Warner Bros.
+437,Terminator 3: Rise of the Machines,3504,2003,150371112,Warner Bros.
+438,The Sorcerer's Apprentice,3504,2010,63150991,Disney
+439,Exodus: Gods and Kings,3503,2014,65014513,Twentieth Century Fox
+440,The Matrix Revolutions,3502,2003,139313948,Warner Bros.
+441,Creed,3502,2015,109767581,Warner Bros.
+442,Game Night,3502,2018,69179066,Warner Bros.
+443,Spies in Disguise,3502,2019,66757013,Twentieth Century Fox
+444,The Shaggy Dog,3501,2006,61123569,Disney
+445,I Now Pronounce You Chuck & Larry,3501,2007,120059556,Universal Pictures
+446,Quantum of Solace,3501,2008,168368427,Sony
+447,Journey 2: The Mysterious Island,3500,2012,103860290,Warner Bros.
+448,Alvin and the Chipmunks,3499,2007,217326974,Twentieth Century Fox
+449,Stealth,3495,2005,32116746,Sony
+450,The Boss,3495,2016,63285885,Universal Pictures
+451,"I, Robot",3494,2004,144801023,Twentieth Century Fox
+452,Grown Ups 2,3491,2013,133668525,Sony
+453,A Beautiful Day in the Neighborhood,3491,2019,61704055,Sony
+454,The Princess Diaries 2: Royal Engagement,3490,2004,95170481,Disney
+455,300: Rise of an Empire,3490,2014,106580051,Warner Bros.
+456,Charlie's Angels: Full Throttle,3485,2003,100830111,Sony
+457,Daddy's Home,3483,2016,150357137,Paramount Pictures
+458,Zookeeper,3482,2011,80360843,Sony
+459,The Three Stooges,3482,2012,44338224,Twentieth Century Fox
+460,This Is It,3481,2009,72091016,Sony
+461,Passengers,3478,2016,100014699,Sony
+462,The Pink Panther,3477,2006,82226474,Sony
+463,The Princess and the Frog,3475,2009,104400899,Disney
+464,Daredevil,3474,2003,102543518,Twentieth Century Fox
+465,Kicking & Screaming,3470,2005,52842724,Universal Pictures
+466,Rock of Ages,3470,2012,38518613,Warner Bros.
+467,Pitch Perfect 3,3468,2017,104897530,Universal Pictures
+468,Zombieland: Double Tap,3468,2019,73123082,Sony
+469,The Cat in the Hat,3467,2003,101149285,Universal Pictures
+470,The Scorpion King,3466,2002,91047077,Universal Pictures
+471,You Don't Mess with the Zohan,3466,2008,100018837,Sony
+472,Tammy,3465,2014,84525432,Warner Bros.
+473,True Grit,3464,2011,171243005,Paramount Pictures
+474,Jurassic Park III,3462,2001,181171875,Universal Pictures
+475,Avatar,3461,2010,749766139,Twentieth Century Fox
+476,Knives Out,3461,2019,165363234,Lionsgate
+477,Ad Astra,3460,2019,50188370,Twentieth Century Fox
+478,The Santa Clause 3: The Escape Clause,3458,2006,84500122,Disney
+479,Good Boys,3458,2019,83140306,Universal Pictures
+480,Transcendence,3455,2014,23022309,Warner Bros.
+481,"10,000 BC",3454,2008,94784201,Warner Bros.
+482,Last Christmas,3454,2019,35150750,Universal Pictures
+483,Signs,3453,2002,227966634,Disney
+484,Star Wars: The Clone Wars,3452,2008,35161554,Warner Bros.
+485,Charlie's Angels,3452,2019,17803077,Sony
+486,Mr. & Mrs. Smith,3451,2005,186336279,Twentieth Century Fox
+487,TRON: Legacy,3451,2010,172062763,Disney
+488,The Dark Tower,3451,2017,50701325,Sony
+489,Ted 2,3448,2015,81476385,Universal Pictures
+490,Scooby-Doo,3447,2002,153294164,Warner Bros.
+491,Sex and the City 2,3445,2010,95347692,Warner Bros.
+492,We're the Millers,3445,2013,150394119,Warner Bros.
+493,The Day After Tomorrow,3444,2004,186740799,Twentieth Century Fox
+494,2012,3444,2009,166112167,Sony
+495,Isn't It Romantic,3444,2019,48791187,Warner Bros.
+496,Casino Royale,3443,2006,167445960,Sony
+497,Prometheus,3442,2012,126477084,Twentieth Century Fox
+498,Real Steel,3440,2011,85468508,Disney
+499,The Muppets,3440,2011,88631237,Disney
+500,Ghost in the Shell,3440,2017,40563557,Paramount Pictures
+501,Jack and Jill,3438,2011,74158157,Sony
+502,Meet the Robinsons,3435,2007,97822171,Disney
+503,Yes Man,3434,2008,97690976,Warner Bros.
+504,Into the Storm,3434,2014,47602194,Warner Bros.
+505,Jumper,3430,2008,80172128,Twentieth Century Fox
+506,Vacation,3430,2015,58884188,Warner Bros.
+507,The Smurfs,3427,2011,142614158,Sony
+508,10 Cloverfield Lane,3427,2016,72082998,Paramount Pictures
+509,22 Jump Street,3426,2014,191719337,Sony
+510,Instant Family,3426,2018,67363237,Paramount Pictures
+511,Finding Nemo,3425,2003,339714978,Disney
+512,Babylon A.D.,3425,2008,22532572,Twentieth Century Fox
+513,Old Dogs,3425,2009,49492060,Disney
+514,Flightplan,3424,2005,89707299,Disney
+515,Super 8,3424,2011,127004179,Paramount Pictures
+516,2 Fast 2 Furious,3418,2003,127154901,Universal Pictures
+517,Zoolander 2,3418,2016,28848693,Paramount Pictures
+518,Blockers,3418,2018,60311495,Universal Pictures
+519,Battle Los Angeles,3417,2011,83552429,Sony
+520,Pirates of the Caribbean: The Curse of the Black Pearl,3416,2003,305413918,Disney
+521,Neighbors 2: Sorority Rising,3416,2016,55455765,Universal Pictures
+522,Hidden Figures,3416,2017,169607287,Twentieth Century Fox
+523,Paranormal Activity 4,3412,2012,53885000,Paramount Pictures
+524,The Mummy,3411,1999,155385488,Universal Pictures
+525,Troy,3411,2004,133378256,Warner Bros.
+526,Live Free or Die Hard,3411,2007,134529403,Twentieth Century Fox
+527,Cloverfield,3411,2008,80048433,Paramount Pictures
+528,The Perfect Storm,3407,2000,182618434,Warner Bros.
+529,The Blind Side,3407,2009,255959475,Warner Bros.
+530,Ender's Game,3407,2013,61737191,Lionsgate
+531,Warcraft,3406,2016,47365290,Universal Pictures
+532,42,3405,2013,95020213,Warner Bros.
+533,Deepwater Horizon,3403,2016,61433527,Lionsgate
+534,The Accountant,3402,2016,86260045,Warner Bros.
+535,Alien vs. Predator,3401,2004,80282231,Twentieth Century Fox
+536,Wild Hogs,3401,2007,168273550,Disney
+537,Diary of a Wimpy Kid: Dog Days,3401,2012,49008662,Twentieth Century Fox
+538,After Earth,3401,2013,60522097,Sony
+539,Horrible Bosses 2,3400,2014,54445357,Warner Bros.
+540,The Internship,3399,2013,44672764,Twentieth Century Fox
+541,The Expendables,3398,2010,103068524,Lionsgate
+542,Percy Jackson & the Olympians: The Lightning Thief,3396,2010,88768303,Twentieth Century Fox
+543,The BFG,3392,2016,55483770,Disney
+544,The Equalizer 2,3388,2018,102084362,Sony
+545,Jack Ryan: Shadow Recruit,3387,2014,50577412,Paramount Pictures
+546,Tag,3382,2018,54730625,Warner Bros.
+547,The Lord of the Rings: The Fellowship of the Ring,3381,2002,313364114,New Line Cinema
+548,Max Payne,3381,2008,40689393,Twentieth Century Fox
+549,Date Night,3380,2010,98711404,Twentieth Century Fox
+550,Cats,3380,2019,27166770,Universal Pictures
+551,Die Another Day,3377,2002,160942139,Metro-Goldwyn-Mayer (MGM)
+552,The Hitman's Bodyguard,3377,2017,75468583,Lionsgate
+553,Arthur Christmas,3376,2011,46462469,Sony
+554,Magic Mike XXL,3376,2015,66013057,Warner Bros.
+555,Legally Blonde 2,3375,2003,90186328,Metro-Goldwyn-Mayer (MGM)
+556,Hotel Transylvania,3375,2012,148313048,Sony
+557,Hansel & Gretel: Witch Hunters,3375,2013,55703475,Paramount Pictures
+558,Split,3373,2017,138291365,Universal Pictures
+559,RoboCop,3372,2014,58607007,Sony
+560,The Curse of la Llorona,3372,2019,54733739,Warner Bros.
+561,The Longest Ride,3371,2015,37446117,Twentieth Century Fox
+562,Tower Heist,3370,2011,78046570,Universal Pictures
+563,Agent Cody Banks,3369,2003,47938330,Metro-Goldwyn-Mayer (MGM)
+564,Parental Guidance,3368,2013,77267296,Twentieth Century Fox
+565,V for Vendetta,3365,2006,70511035,Warner Bros.
+566,Due Date,3365,2010,100539043,Warner Bros.
+567,Red Dragon,3363,2002,93149898,Universal Pictures
+568,Spirit: Stallion of the Cimarron,3362,2002,73280117,DreamWorks Distribution
+569,The Pirates! Band of Misfits,3358,2012,31051126,Sony
+570,How to Be Single,3357,2016,46843513,Warner Bros.
+571,Shutter Island,3356,2010,128012934,Paramount Pictures
+572,The Conjuring 2,3356,2016,102470008,Warner Bros.
+573,The Expendables 2,3355,2012,85028192,Lionsgate
+574,Murder on the Orient Express,3354,2017,102826543,Twentieth Century Fox
+575,The Santa Clause 2,3352,2002,139236327,Disney
+576,Jack Reacher,3352,2012,80070736,Paramount Pictures
+577,Lara Croft: Tomb Raider,3349,2001,131168070,Paramount Pictures
+578,The Grudge,3348,2004,110359362,Sony
+579,Ice Age,3345,2002,176387405,Twentieth Century Fox
+580,Tooth Fairy,3345,2010,60022256,Twentieth Century Fox
+581,Jackass Presents: Bad Grandpa,3345,2013,102003019,Paramount Pictures
+582,Wild Wild West,3342,1999,113804681,Warner Bros.
+583,The Game Plan,3342,2007,90648202,Disney
+584,Mr. Popper's Penguins,3342,2011,68224452,Twentieth Century Fox
+585,The Greatest Showman,3342,2018,174340174,Twentieth Century Fox
+586,The Ring Two,3341,2005,76231249,DreamWorks Distribution
+587,The Fault in Our Stars,3340,2014,124872350,Twentieth Century Fox
+588,Public Enemies,3336,2009,97104620,Universal Pictures
+589,Angel Has Fallen,3336,2019,69030436,Lionsgate
+590,A Nightmare on Elm Street,3332,2010,63075011,Warner Bros.
+591,Paranormal Activity 3,3329,2011,104028807,Paramount Pictures
+592,The Mule,3329,2019,103804407,Warner Bros.
+593,The Great Wall,3328,2017,45540830,Universal Pictures
+594,Sex and the City,3325,2008,152647258,Warner Bros.
+595,The Amityville Horror,3323,2005,65233369,Metro-Goldwyn-Mayer (MGM)
+596,Focus,3323,2015,53862963,Warner Bros.
+597,Transporter 2,3320,2005,43095856,Twentieth Century Fox
+598,The Intern,3320,2015,75764672,Warner Bros.
+599,Dinosaur,3319,2000,137748063,Disney
+600,Sweet Home Alabama,3313,2002,127223418,Disney
+601,Fury,3313,2014,85817906,Sony
+602,Scooby-Doo 2: Monsters Unleashed,3312,2004,84216833,Warner Bros.
+603,Barnyard,3311,2006,72637803,Paramount Pictures
+604,Neighbors,3311,2014,150157400,Universal Pictures
+605,Godzilla,3310,1998,136314294,Sony
+606,Little Women,3308,2019,108101214,Sony
+607,Battlefield Earth,3307,2000,21471685,Warner Bros.
+608,Cheaper by the Dozen,3307,2004,138614544,Twentieth Century Fox
+609,The SpongeBob SquarePants Movie,3307,2004,85417988,Paramount Pictures
+610,Lost in Space,3306,1998,69117629,New Line Cinema
+611,The Other Woman,3306,2014,83911193,Twentieth Century Fox
+612,The Bourne Supremacy,3304,2004,176241941,Universal Pictures
+613,Ted,3303,2012,218815487,Universal Pictures
+614,Pain & Gain,3303,2013,49875291,Paramount Pictures
+615,Hellboy,3303,2019,21903748,Lionsgate
+616,The Campaign,3302,2012,86907746,Warner Bros.
+617,Unbroken,3301,2015,115637895,Universal Pictures
+618,Hannibal,3292,2001,165092268,Metro-Goldwyn-Mayer (MGM)
+619,Ocean's Twelve,3290,2004,125544280,Warner Bros.
+620,Prisoners,3290,2013,61002302,Warner Bros.
+621,Once Upon a Time in Mexico,3289,2003,56359780,Sony
+622,Pacific Rim,3285,2013,101802906,Warner Bros.
+623,Lone Survivor,3285,2014,125095601,Universal Pictures
+624,Elysium,3284,2013,93050117,TriStar Pictures
+625,Gone Girl,3284,2014,167767189,Twentieth Century Fox
+626,Stuart Little 2,3282,2002,64956806,Sony
+627,Kingsman: The Secret Service,3282,2015,128261724,Twentieth Century Fox
+628,Deep Impact,3280,1998,140464664,Paramount Pictures
+629,300,3280,2007,210614939,Warner Bros.
+630,A Dog's Journey,3279,2019,22782371,Universal Pictures
+631,Arthur,3276,2011,33035397,Warner Bros.
+632,Fever Pitch,3275,2005,42071069,Twentieth Century Fox
+633,Hitman: Agent 47,3273,2015,22467450,Twentieth Century Fox
+634,Son of God,3271,2014,59700064,Twentieth Century Fox
+635,Race to Witch Mountain,3268,2009,67172594,Disney
+636,Titanic,3265,1998,600788188,Paramount Pictures
+637,Ladder 49,3261,2004,74541707,Disney
+638,Big Momma's House 2,3261,2006,70165972,Twentieth Century Fox
+639,The Mountain Between Us,3259,2017,30348555,Twentieth Century Fox
+640,War Dogs,3258,2016,43034523,Warner Bros.
+641,Toy Story 2,3257,1999,245852179,Disney
+642,How the Grinch Stole Christmas,3256,2000,260044825,Universal Pictures
+643,Pearl Harbor,3255,2001,198542554,Disney
+644,What Happens in Vegas,3255,2008,80277646,Twentieth Century Fox
+645,17 Again,3255,2009,64167069,Warner Bros.
+646,Big Daddy,3254,1999,163479795,Sony
+647,Nutty Professor II: The Klumps,3251,2000,123309890,Universal Pictures
+648,I Still Believe,3250,2020,9868521,Lionsgate
+649,Beowulf,3249,2007,82280579,Paramount Pictures
+650,Argo,3247,2012,136025503,Warner Bros.
+651,Geostorm,3246,2017,33700160,Warner Bros.
+652,The Pink Panther 2,3245,2009,35922978,Sony
+653,National Treasure,3243,2004,173008894,Disney
+654,Walking with Dinosaurs 3D,3243,2013,36076121,Twentieth Century Fox
+655,A.I. Artificial Intelligence,3242,2001,78616689,Warner Bros.
+656,Poltergeist,3242,2015,47425125,Twentieth Century Fox
+657,Midway,3242,2019,56846802,Lionsgate
+658,The Guardian,3241,2006,55011732,Disney
+659,The Girl on the Train,3241,2016,75395035,Universal Pictures
+660,Runaway Bride,3240,1999,152257509,Paramount Pictures
+661,Mr. Deeds,3239,2002,126293452,Sony
+662,Fun with Dick and Jane,3239,2006,110332737,Sony
+663,Beverly Hills Chihuahua,3239,2008,94514402,Disney
+664,Paranormal Activity 2,3239,2010,84752907,Paramount Pictures
+665,The Equalizer,3236,2014,101530738,Sony
+666,La La Land,3236,2017,151101803,Lionsgate
+667,Lady in the Water,3235,2006,42285169,Warner Bros.
+668,Miss Congeniality 2: Armed & Fabulous,3233,2005,48478006,Warner Bros.
+669,Vampires Suck,3233,2010,36661504,Twentieth Century Fox
+670,Zathura: A Space Adventure,3232,2005,29258869,Disney
+671,Now You See Me 2,3232,2016,65075540,Lionsgate
+672,Hannah Montana: The Movie,3231,2009,79576189,Disney
+673,The Sum of All Fears,3230,2002,118907036,Paramount Pictures
+674,Identity Thief,3230,2013,134506920,Universal Pictures
+675,Long Shot,3230,2019,30316271,Lionsgate
+676,Bride Wars,3228,2009,58715510,Twentieth Century Fox
+677,Treasure Planet,3227,2002,38176783,Disney
+678,Baby Driver,3226,2017,107825862,TriStar Pictures
+679,Catch Me If You Can,3225,2003,164615351,DreamWorks Distribution
+680,Good Boy,3225,2003,37667746,Metro-Goldwyn-Mayer (MGM)
+681,The Road to El Dorado,3223,2000,50863742,DreamWorks Distribution
+682,The Wolfman,3223,2010,61979680,Universal Pictures
+683,Lilo & Stitch,3222,2002,145794338,Disney
+684,Lara Croft Tomb Raider: The Cradle of Life,3222,2003,65660196,Paramount Pictures
+685,Contagion,3222,2011,75658097,Warner Bros.
+686,White House Down,3222,2013,73103784,Sony
+687,The Expendables 3,3221,2014,39322544,Lionsgate
+688,Rules of Engagement,3220,2000,61335230,Paramount Pictures
+689,S.W.A.T.,3220,2003,116934650,Sony
+690,Kingdom of Heaven,3219,2005,47398413,Twentieth Century Fox
+691,The Prince of Egypt,3218,1998,101413188,DreamWorks Distribution
+692,Be Cool,3216,2005,56046979,Metro-Goldwyn-Mayer (MGM)
+693,Annabelle,3215,2014,84273813,Warner Bros.
+694,The Grudge 2,3214,2006,39143839,Sony
+695,Marmaduke,3213,2010,33644788,Twentieth Century Fox
+696,Hellboy II: The Golden Army,3212,2008,75986503,Universal Pictures
+697,Trouble with the Curve,3212,2012,35763137,Warner Bros.
+698,Get Hard,3212,2015,90411453,Warner Bros.
+699,Happy Death Day 2U,3212,2019,28148130,Universal Pictures
+700,Cheaper by the Dozen 2,3211,2006,82571173,Twentieth Century Fox
+701,"Yours, Mine & Ours",3210,2005,53412862,Paramount Pictures
+702,Bridge to Terabithia,3210,2007,82272442,Disney
+703,Office Christmas Party,3210,2016,54767494,Paramount Pictures
+704,Bandits,3207,2001,41575141,Metro-Goldwyn-Mayer (MGM)
+705,Paul Blart: Mall Cop,3206,2009,146336178,Sony
+706,Collateral,3205,2004,101005703,DreamWorks Distribution
+707,Deck the Halls,3205,2006,35093569,Twentieth Century Fox
+708,Elektra,3204,2005,24409722,Twentieth Century Fox
+709,Corpse Bride,3204,2005,53359111,Warner Bros.
+710,The Last Airbender,3203,2010,131772187,Paramount Pictures
+711,American Reunion,3203,2012,57011521,Universal Pictures
+712,Bad Boys II,3202,2003,138608444,Sony
+713,Failure to Launch,3202,2006,88715192,Paramount Pictures
+714,Lucy,3202,2014,126663600,Universal Pictures
+715,Chappie,3201,2015,31569268,Sony
+716,Sahara,3200,2005,68671925,Paramount Pictures
+717,Annie,3197,2014,85911262,Sony
+718,Mamma Mia!,3194,2008,144130063,Universal Pictures
+719,Muppets Most Wanted,3194,2014,51183113,Disney
+720,Ride Along 2,3192,2016,91221830,Universal Pictures
+721,This Means War,3189,2012,54760791,Twentieth Century Fox
+722,Gladiator,3188,2000,187705427,DreamWorks Distribution
+723,Because of Winn-Dixie,3188,2005,32647042,Twentieth Century Fox
+724,Bewitched,3188,2005,63313159,Sony
+725,Dumb and Dumber To,3188,2014,86208010,Universal Pictures
+726,Black Mass,3188,2015,62575678,Warner Bros.
+727,Teen Titans GO! to the Movies,3188,2018,29790236,Warner Bros.
+728,Starsky & Hutch,3185,2004,88237754,Warner Bros.
+729,Racing Stripes,3185,2005,49772522,Warner Bros.
+730,Wanted,3185,2008,134508551,Universal Pictures
+731,The X Files: I Want to Believe,3185,2008,20982478,Twentieth Century Fox
+732,Fist Fight,3185,2017,32187017,Warner Bros.
+733,Playing with Fire,3185,2019,44451847,Paramount Pictures
+734,Armageddon,3184,1998,201578182,Disney
+735,Taken,3184,2009,145000989,Twentieth Century Fox
+736,The Heat,3184,2013,159582188,Twentieth Century Fox
+737,Bad News Bears,3183,2005,32868349,Paramount Pictures
+738,Saw IV,3183,2007,63300095,Lionsgate
+739,Non-Stop,3183,2014,92168600,Universal Pictures
+740,I Spy,3182,2002,33561137,Sony
+741,Step Brothers,3182,2008,100468793,Sony
+742,The Pacifier,3181,2005,113086868,Sony
+743,Jupiter Ascending,3181,2015,47387723,Warner Bros.
+744,Men in Black,3180,1997,250690539,Sony
+745,District 9,3180,2009,115646235,TriStar Pictures
+746,My Big Fat Greek Wedding 2,3179,2016,59689605,Universal Pictures
+747,A Dog's Purpose,3178,2017,64508620,Universal Pictures
+748,American Wedding,3175,2003,104565114,Universal Pictures
+749,He's Just Not That Into You,3175,2009,93953653,Warner Bros.
+750,Ghosts of Girlfriends Past,3175,2009,55250026,Warner Bros.
+751,The Lucky One,3175,2012,60457138,Warner Bros.
+752,Ghost Rider: Spirit of Vengeance,3174,2012,51774002,Sony
+753,Diary of a Wimpy Kid: The Long Haul,3174,2017,20738724,Twentieth Century Fox
+754,The Seeker: The Dark Is Rising,3173,2007,8794452,Twentieth Century Fox
+755,Zombieland,3171,2009,75590286,Sony
+756,Run All Night,3171,2015,26461644,Warner Bros.
+757,Trainwreck,3171,2015,110212700,Universal Pictures
+758,Sky Captain and the World of Tomorrow,3170,2004,37762677,Paramount Pictures
+759,We Bought a Zoo,3170,2012,75624550,Twentieth Century Fox
+760,Crawl,3170,2019,39014193,Paramount Pictures
+761,The Pursuit of Happyness,3169,2007,163566459,Sony
+762,Diary of a Wimpy Kid: Rodrick Rules,3169,2011,52698535,Twentieth Century Fox
+763,Book Club,3169,2018,68566296,Paramount Pictures
+764,Mr. Magorium's Wonder Emporium,3168,2007,32061555,Twentieth Century Fox
+765,The Watch,3168,2012,35353000,Twentieth Century Fox
+766,Ouija: Origin of Evil,3168,2016,35144505,Universal Pictures
+767,Saw III,3167,2006,80238724,Lionsgate
+768,The World Is Not Enough,3163,1999,126943684,Metro-Goldwyn-Mayer (MGM)
+769,Vantage Point,3163,2008,72266306,Sony
+770,The Mexican,3162,2001,66845033,DreamWorks Distribution
+771,Rough Night,3162,2017,22105643,Sony
+772,Star Wars: Episode II - Attack of the Clones,3161,2002,302191252,Twentieth Century Fox
+773,Walk the Line,3160,2005,119519402,Twentieth Century Fox
+774,The Incredible Burt Wonderstone,3160,2013,22537881,Warner Bros.
+775,A Million Ways to Die in the West,3160,2014,43139300,Universal Pictures
+776,Allied,3160,2016,40098064,Paramount Pictures
+777,The Proposal,3158,2009,163958031,Disney
+778,American Pie 2,3157,2001,145103595,Universal Pictures
+779,If I Stay,3157,2014,50474843,Warner Bros.
+780,I Am Number Four,3156,2011,55100437,Disney
+781,Final Destination 5,3155,2011,42587643,Warner Bros.
+782,Miracles from Heaven,3155,2016,61705123,TriStar Pictures
+783,The Rundown,3154,2003,47726342,Universal Pictures
+784,American Assassin,3154,2017,36249674,Lionsgate
+785,Stuart Little,3151,2000,140035367,Sony
+786,Jimmy Neutron: Boy Genius,3151,2001,80936232,Paramount Pictures
+787,The Forbidden Kingdom,3151,2008,52075270,Lionsgate
+788,Garfield,3150,2004,75369589,Twentieth Century Fox
+789,Cop Out,3150,2010,44875481,Warner Bros.
+790,Life as We Know It,3150,2010,53374681,Warner Bros.
+791,Insidious: The Last Key,3150,2018,67745330,Universal Pictures
+792,21 Jump Street,3148,2012,138447667,Sony
+793,The Visit,3148,2015,65206105,Universal Pictures
+794,Guess Who,3147,2005,68915888,Sony
+795,The Break-Up,3146,2006,118703275,Universal Pictures
+796,Life,3146,2017,30234022,Sony
+797,We Were Soldiers,3143,2002,78122718,Paramount Pictures
+798,Captain Phillips,3143,2013,107100855,Sony
+799,The Finest Hours,3143,2016,27569558,Disney
+800,Get Out,3143,2017,176040665,Universal Pictures
+801,Straight Outta Compton,3142,2015,161197785,Universal Pictures
+802,Let's Be Cops,3140,2014,82390774,Twentieth Century Fox
+803,Jackass 3D,3139,2010,117229692,Paramount Pictures
+804,The Island,3138,2005,35818913,DreamWorks Distribution
+805,"You, Me and Dupree",3137,2006,75628110,Universal Pictures
+806,Sausage Party,3135,2016,97685686,Sony
+807,Scary Stories to Tell in the Dark,3135,2019,68947075,Lionsgate
+808,Red Eye,3134,2005,57891803,DreamWorks Distribution
+809,Horrible Bosses,3134,2011,117538559,Warner Bros.
+810,The House,3134,2017,25584504,Warner Bros.
+811,The Hitchhiker's Guide to the Galaxy,3133,2005,51085416,Disney
+812,Fame,3133,2009,22455510,Metro-Goldwyn-Mayer (MGM)
+813,Tarzan,3131,1999,171091819,Disney
+814,Wedding Crashers,3131,2005,209255921,New Line Cinema
+815,Deuce Bigalow: European Gigolo,3127,2005,22400154,Sony
+816,The Darkest Minds,3127,2018,12695691,Twentieth Century Fox
+817,Star Wars: Episode I - The Phantom Menace,3126,1999,431088295,Twentieth Century Fox
+818,The Flintstones in Viva Rock Vegas,3125,2000,35268275,Universal Pictures
+819,Fool's Gold,3125,2008,70231041,Warner Bros.
+820,Jeepers Creepers 2,3124,2003,35667218,United Artists
+821,The Haunted Mansion,3122,2003,75847266,Disney
+822,Eight Below,3122,2006,81612565,Disney
+823,The Final Destination,3121,2009,66477700,Warner Bros.
+824,Safe House,3121,2012,126373434,Universal Pictures
+825,Blair Witch,3121,2016,20777061,Lionsgate
+826,TMNT,3120,2007,54149098,Warner Bros.
+827,Magic Mike,3120,2012,113721571,Warner Bros.
+828,Patriots Day,3120,2017,31886361,Lionsgate
+829,Panic Room,3119,2002,96397334,Sony
+830,Cloudy with a Chance of Meatballs,3119,2009,124870275,Sony
+831,Monster Trucks,3119,2017,33370166,Paramount Pictures
+832,Rush Hour 2,3118,2001,226164286,New Line Cinema
+833,The Bounty Hunter,3118,2010,67061228,Sony
+834,Justin Bieber: Never Say Never,3118,2011,73013910,Paramount Pictures
+835,Abduction,3118,2011,28087155,Lionsgate
+836,Lethal Weapon 4,3117,1998,130444603,Warner Bros.
+837,Catwoman,3117,2004,40202379,Warner Bros.
+838,Mars Needs Moms,3117,2011,21392758,Disney
+839,Riddick,3117,2013,42025135,Universal Pictures
+840,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",3117,2014,66954149,Disney
+841,Gods of Egypt,3117,2016,31153464,Lionsgate
+842,The Conjuring,3115,2013,137400141,Warner Bros.
+843,Need for Speed,3115,2014,43577636,Disney
+844,Arrival,3115,2016,100546139,Paramount Pictures
+845,Fright Night,3114,2011,18302607,Disney
+846,The Book of Life,3113,2014,50151543,Twentieth Century Fox
+847,John Wick: Chapter 2,3113,2017,92029184,Lionsgate
+848,X-Men,3112,2000,157299718,Twentieth Century Fox
+849,House of Wax,3111,2005,32064800,Warner Bros.
+850,The Book of Eli,3111,2010,94835059,Warner Bros.
+851,The Spy Who Dumped Me,3111,2018,33562069,Lionsgate
+852,American Gangster,3110,2007,130164645,Universal Pictures
+853,Abraham Lincoln: Vampire Hunter,3109,2012,37519139,Twentieth Century Fox
+854,Deja Vu,3108,2006,64038616,Disney
+855,Aliens in the Attic,3108,2009,25200412,Twentieth Century Fox
+856,Eat Pray Love,3108,2010,80574010,Sony
+857,Secretariat,3108,2010,59713955,Disney
+858,Entourage,3108,2015,32363404,Warner Bros.
+859,Quest for Camelot,3107,1998,22510798,Warner Bros.
+860,The Tale of Despereaux,3107,2008,50877145,Universal Pictures
+861,Friday the 13th,3105,2009,65002019,Warner Bros.
+862,Shorts,3105,2009,20919166,Warner Bros.
+863,Anchorman: The Legend of Ron Burgundy,3104,2004,85288303,DreamWorks Distribution
+864,Knight and Day,3104,2010,76423035,Twentieth Century Fox
+865,Money Monster,3104,2016,41012075,TriStar Pictures
+866,Gangster Squad,3103,2013,46000903,Warner Bros.
+867,In the Heart of the Sea,3103,2015,25020758,Warner Bros.
+868,Mortal Engines,3103,2018,15951040,Universal Pictures
+869,A Simple Favor,3102,2018,53548586,Lionsgate
+870,The Man in the Iron Mask,3101,1998,56968902,Metro-Goldwyn-Mayer (MGM)
+871,Mission to Mars,3101,2000,60883407,Disney
+872,Master and Commander: The Far Side of the World,3101,2003,93927920,Twentieth Century Fox
+873,American Made,3098,2017,51342000,Universal Pictures
+874,What Women Want,3092,2001,182811707,Paramount Pictures
+875,A Dog's Way Home,3090,2019,42004346,Sony
+876,Gone in 60 Seconds,3089,2000,101648571,Disney
+877,Gulliver's Travels,3089,2011,42779261,Twentieth Century Fox
+878,"Me, Myself & Irene",3087,2000,90570999,Twentieth Century Fox
+879,The Adventures of Tintin,3087,2011,77591831,Paramount Pictures
+880,Sinbad: Legend of the Seven Seas,3086,2003,26483452,DreamWorks Distribution
+881,King Arthur,3086,2004,51882244,Disney
+882,Saw V,3084,2008,56746769,Lionsgate
+883,Ben-Hur,3084,2016,26410477,Paramount Pictures
+884,Nacho Libre,3083,2006,80197993,Paramount Pictures
+885,Diary of a Wimpy Kid,3083,2010,64003625,Twentieth Century Fox
+886,The Monuments Men,3083,2014,78031620,Sony
+887,Now You See Me,3082,2013,117723989,Lionsgate
+888,The Last Witch Hunter,3082,2015,27367660,Lionsgate
+889,Like a Boss,3081,2020,22169514,Paramount Pictures
+890,Percy Jackson: Sea of Monsters,3080,2013,68559554,Twentieth Century Fox
+891,The Taking of Pelham 123,3077,2009,65452312,Sony
+892,Out of Time,3076,2003,41088845,Metro-Goldwyn-Mayer (MGM)
+893,Going in Style,3076,2017,45018541,Warner Bros.
+894,Ocean's Eleven,3075,2001,183417150,Warner Bros.
+895,27 Dresses,3074,2008,76808654,Twentieth Century Fox
+896,Couples Retreat,3074,2009,109204945,Universal Pictures
+897,Pineapple Express,3072,2008,87341380,Sony
+898,Atlantis: The Lost Empire,3071,2001,84056472,Disney
+899,Erin Brockovich,3070,2000,125595205,Universal Pictures
+900,The Age of Adaline,3070,2015,42629776,Lionsgate
+901,Sleepy Hollow,3069,1999,101071502,Paramount Pictures
+902,Superbad,3069,2007,121463226,Sony
+903,Truth or Dare,3068,2018,41411015,Universal Pictures
+904,Freaky Friday,3067,2003,110230332,Disney
+905,Edge of Darkness,3066,2010,43313890,Warner Bros.
+906,Hidalgo,3065,2004,67303450,Disney
+907,Kick-Ass,3065,2010,48071303,Lionsgate
+908,Red Sparrow,3064,2018,46874505,Twentieth Century Fox
+909,Jackass Number Two,3063,2006,72778712,Paramount Pictures
+910,Sex Tape,3062,2014,38543473,Sony
+911,The Patriot,3061,2000,113330342,Sony
+912,Cast Away,3061,2001,233632142,Twentieth Century Fox
+913,Drillbit Taylor,3061,2008,32862104,Paramount Pictures
+914,Home on the Range,3058,2004,50030461,Disney
+915,The Stepford Wives,3057,2004,59484742,Paramount Pictures
+916,Project X,3055,2012,54731865,Warner Bros.
+917,This Is the End,3055,2013,101470202,Sony
+918,Sicario: Day of the Soldado,3055,2018,50072235,Sony
+919,Mean Girls,3054,2004,86058055,Paramount Pictures
+920,Dr. Dolittle 2,3053,2001,112952899,Twentieth Century Fox
+921,Along Came Polly,3052,2004,88097164,Universal Pictures
+922,The Ant Bully,3050,2006,28142535,Warner Bros.
+923,No Strings Attached,3050,2011,70662220,Paramount Pictures
+924,Stuber,3050,2019,22370452,Twentieth Century Fox
+925,Bad Teacher,3049,2011,100292856,Sony
+926,The Rhythm Section,3049,2020,5437971,Paramount Pictures
+927,Heaven Is for Real,3048,2014,91443253,TriStar Pictures
+928,Gran Torino,3045,2009,148095302,Warner Bros.
+929,Doom,3044,2005,28212337,Universal Pictures
+930,The Counselor,3044,2013,16973715,Twentieth Century Fox
+931,Pokémon: The First Movie - Mewtwo Strikes Back,3043,1999,85744662,Warner Bros.
+932,Unknown,3043,2011,63686397,Warner Bros.
+933,The 15:17 to Paris,3042,2018,36276286,Warner Bros.
+934,Rugrats Go Wild,3041,2003,39402572,Paramount Pictures
+935,Cats & Dogs,3040,2001,93385515,Warner Bros.
+936,The First Purge,3038,2018,69488745,Universal Pictures
+937,Charlie's Angels,3037,2000,125305545,Sony
+938,Gnomeo & Juliet,3037,2011,99967670,Disney
+939,Hot Pursuit,3037,2015,34580201,Warner Bros.
+940,Saw VI,3036,2009,27693292,Lionsgate
+941,Delivery Man,3036,2013,30664106,Disney
+942,Planet 51,3035,2009,42194060,Sony
+943,Sucker Punch,3033,2011,36392502,Warner Bros.
+944,Paper Towns,3031,2015,32000304,Twentieth Century Fox
+945,Brother Bear,3030,2003,85336277,Disney
+946,The Fast and the Furious: Tokyo Drift,3030,2006,62514415,Universal Pictures
+947,Eragon,3030,2006,75030163,Twentieth Century Fox
+948,Going the Distance,3030,2010,17804299,Warner Bros.
+949,Red Riding Hood,3030,2011,37662162,Warner Bros.
+950,That's My Boy,3030,2012,36931089,Sony
+951,2 Guns,3028,2013,75612460,Universal Pictures
+952,Collateral Beauty,3028,2016,31016021,Warner Bros.
+953,The Hunt,3028,2020,5812500,Universal Pictures
+954,Miami Vice,3026,2006,63450470,Universal Pictures
+955,Runner Runner,3026,2013,19316646,Twentieth Century Fox
+956,Evil Dead,3025,2013,54239856,TriStar Pictures
+957,Year One,3024,2009,43337279,Sony
+958,The Tuxedo,3022,2002,50547998,DreamWorks Distribution
+959,Keeping Up with the Joneses,3022,2016,14904426,Twentieth Century Fox
+960,World Trade Center,3021,2006,70278893,Paramount Pictures
+961,What to Expect When You're Expecting,3021,2012,41152203,Lionsgate
+962,Dodgeball,3020,2004,114326736,Twentieth Century Fox
+963,"Crazy, Stupid, Love",3020,2011,84351197,Warner Bros.
+964,Strange Magic,3020,2015,12429583,Disney
+965,The Core,3019,2003,31186896,Paramount Pictures
+966,Rocky Balboa,3019,2006,70270943,Metro-Goldwyn-Mayer (MGM)
+967,Million Dollar Arm,3019,2014,36457627,Disney
+968,Night School,3019,2018,77339130,Universal Pictures
+969,Secret Window,3018,2004,48022900,Sony
+970,Moneyball,3018,2011,75605492,Sony
+971,12 Strong,3018,2018,45819713,Warner Bros.
+972,The Departed,3017,2006,132384315,Warner Bros.
+973,Fun Size,3016,2012,9409538,Paramount Pictures
+974,RED 2,3016,2013,53262560,Lionsgate
+975,Blue Crush,3015,2002,40390647,Universal Pictures
+976,Conan the Barbarian,3015,2011,21295021,Lionsgate
+977,The Help,3014,2011,169708112,Disney
+978,The Dictator,3014,2012,59650222,Paramount Pictures
+979,Here Comes the Boom,3014,2012,45290318,Sony
+980,Underdog,3013,2007,43760605,Disney
+981,Mission: Impossible,3012,1996,180981856,Paramount Pictures
+982,The Wild Thornberrys,3012,2002,40108697,Paramount Pictures
+983,The Love Guru,3012,2008,32235793,Paramount Pictures
+984,Meet Dave,3011,2008,11803254,Twentieth Century Fox
+985,Imagine That,3011,2009,16123323,Paramount Pictures
+986,What's Your Number?,3011,2011,14011084,Twentieth Century Fox
+987,Warm Bodies,3009,2013,66380662,Lionsgate
+988,Everest,3009,2015,43482270,Universal Pictures
+989,Funny People,3008,2009,51855045,Universal Pictures
+990,Mike and Dave Need Wedding Dates,3008,2016,46009673,Twentieth Century Fox
+991,Why Him?,3008,2017,60323786,Twentieth Century Fox
+992,E.T. the Extra-Terrestrial,3007,2002,35306015,Universal Pictures
+993,Stuck on You,3007,2003,33832741,Twentieth Century Fox
+994,New York Minute,3006,2004,14071441,Warner Bros.
+995,Constantine,3006,2005,75976178,Warner Bros.
+996,The 40-Year-Old Virgin,3006,2005,109449237,Universal Pictures
+997,3:10 to Yuma,3006,2007,53606916,Lionsgate
+998,Hide and Seek,3005,2005,51100486,Twentieth Century Fox
+999,Frankenweenie,3005,2012,35291068,Disney
