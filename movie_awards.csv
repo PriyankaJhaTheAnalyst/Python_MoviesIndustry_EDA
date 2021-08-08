@@ -1,0 +1,1317 @@
+,film_name,film_year,awards_won,awards_nominated,win_rate
+0,Parasite,2019,4,6,0.667
+1,Ford v Ferrari,2019,2,4,0.5
+2,Learning to Skateboard in a Warzone (If You're a Girl),2019,1,1,1.0
+3,The Neighbors' Window,2019,1,1,1.0
+4,Little Women,2019,1,6,0.167
+5,Marriage Story,2019,1,6,0.167
+6,Jojo Rabbit,2019,1,6,0.167
+7,Toy Story 4,2019,1,2,0.5
+8,Joker,2019,2,11,0.182
+9,Once Upon a Time in Hollywood,2019,2,10,0.2
+10,1917,2019,3,10,0.3
+11,Judy,2019,1,2,0.5
+12,Bombshell,2019,1,3,0.333
+13,Rocketman,2019,1,1,1.0
+14,American Factory,2019,1,1,1.0
+15,Hair Love,2019,1,1,1.0
+16,Green Book,2018,3,5,0.6
+17,Bohemian Rhapsody,2018,4,5,0.8
+18,Roma,2018,3,10,0.3
+19,Black Panther,2018,3,7,0.429
+20,The Favourite,2018,1,10,0.1
+21,A Star Is Born,2018,1,8,0.125
+22,Vice,2018,1,8,0.125
+23,BlacKkKlansman,2018,1,6,0.167
+24,First Man,2018,1,4,0.25
+25,If Beale Street Could Talk,2018,1,3,0.333
+26,Bao,2018,1,1,1.0
+27,Free Solo,2018,1,1,1.0
+28,Period. End of Sentence.,2018,1,1,1.0
+29,Skin,2018,1,1,1.0
+30,Spider-Man: Into the Spider-Verse,2018,1,1,1.0
+31,The Shape of Water,2017,4,13,0.308
+32,Dunkirk,2017,3,8,0.375
+33,"Three Billboards Outside Ebbing, Missouri",2017,2,7,0.286
+34,Darkest Hour,2017,2,6,0.333
+35,Blade Runner 2049,2017,2,5,0.4
+36,Coco,2017,2,2,1.0
+37,Phantom Thread,2017,1,6,0.167
+38,Call Me by Your Name,2017,1,4,0.25
+39,Get Out,2017,1,4,0.25
+40,"I, Tonya",2017,1,3,0.333
+41,Dear Basketball,2017,1,1,1.0
+42,A Fantastic Woman,2017,1,1,1.0
+43,Heaven Is a Traffic Jam on the 405,2017,1,1,1.0
+44,Icarus,2017,1,1,1.0
+45,The Silent Child,2017,1,1,1.0
+46,Flesh and Sand (Carne y arena),2017,0,0,
+47,Moonlight,2016,3,8,0.375
+48,La La Land,2016,6,14,0.429
+49,Hacksaw Ridge,2016,2,6,0.333
+50,Manchester by the Sea,2016,2,6,0.333
+51,Arrival,2016,1,8,0.125
+52,Fences,2016,1,4,0.25
+53,Fantastic Beasts and Where to Find Them,2016,1,2,0.5
+54,The Jungle Book,2016,1,1,1.0
+55,O.J.: Made in America,2016,1,1,1.0
+56,Piper,2016,1,1,1.0
+57,The Salesman,2016,1,1,1.0
+58,Sing,2016,1,1,1.0
+59,Suicide Squad,2016,1,1,1.0
+60,The White Helmets,2016,1,1,1.0
+61,Zootopia,2016,1,1,1.0
+62,Spotlight,2015,2,6,0.333
+63,Mad Max: Fury Road,2015,6,10,0.6
+64,The Revenant,2015,3,12,0.25
+65,Bridge of Spies,2015,1,6,0.167
+66,The Big Short,2015,1,5,0.2
+67,The Danish Girl,2015,1,4,0.25
+68,Room,2015,1,4,0.25
+69,The Hateful Eight,2015,1,3,0.333
+70,Ex Machina,2015,1,2,0.5
+71,Inside Out,2015,1,2,0.5
+72,Amy,2015,1,1,1.0
+73,Bear Story,2015,1,1,1.0
+74,A Girl in the River: The Price of Forgiveness,2015,1,1,1.0
+75,Son of Saul,2015,1,1,1.0
+76,Spectre,2015,1,1,1.0
+77,Stutterer,2015,1,1,1.0
+78,Birdman,2014,4,9,0.444
+79,The Grand Budapest Hotel,2014,4,9,0.444
+80,Whiplash,2014,3,5,0.6
+81,The Imitation Game,2014,1,8,0.125
+82,American Sniper,2014,1,6,0.167
+83,Boyhood,2014,1,6,0.167
+84,Interstellar,2014,1,5,0.2
+85,The Theory of Everything,2014,1,5,0.2
+86,Ida,2014,1,2,0.5
+87,Selma,2014,1,2,0.5
+88,Citizenfour,2014,1,1,1.0
+89,Big Hero 6,2014,1,1,1.0
+90,Crisis Hotline: Veterans Press 1,2014,1,1,1.0
+91,The Phone Call,2014,1,1,1.0
+92,Still Alice,2014,1,1,1.0
+93,Feast,2014,1,1,1.0
+94,12 Years a Slave,2013,3,9,0.333
+95,Gravity,2013,7,10,0.7
+96,Dallas Buyers Club,2013,3,6,0.5
+97,Frozen,2013,2,2,1.0
+98,The Great Gatsby,2013,2,2,1.0
+99,Her,2013,1,5,0.2
+100,Blue Jasmine,2013,1,3,0.333
+101,Mr Hublot,2013,1,1,1.0
+102,The Lady in Number 6,2013,1,1,1.0
+103,Helium,2013,1,1,1.0
+104,The Great Beauty,2013,1,1,1.0
+105,20 Feet from Stardom,2013,1,1,1.0
+106,Argo,2012,3,7,0.429
+107,Life of Pi,2012,4,11,0.364
+108,Les Misérables,2012,3,8,0.375
+109,Lincoln,2012,2,12,0.167
+110,Django Unchained,2012,2,5,0.4
+111,Skyfall,2012,2,5,0.4
+112,Silver Linings Playbook,2012,1,8,0.125
+113,Zero Dark Thirty,2012,1,5,0.2
+114,Amour,2012,1,5,0.2
+115,Anna Karenina,2012,1,4,0.25
+116,Paperman,2012,1,1,1.0
+117,Brave,2012,1,1,1.0
+118,Searching for Sugar Man,2012,1,1,1.0
+119,Inocente,2012,1,1,1.0
+120,Curfew,2012,1,1,1.0
+121,The Artist,2011,5,10,0.5
+122,Hugo,2011,5,11,0.455
+123,The Iron Lady,2011,2,2,1.0
+124,The Descendants,2011,1,5,0.2
+125,The Girl with the Dragon Tattoo,2011,1,5,0.2
+126,Midnight in Paris,2011,1,4,0.25
+127,The Help,2011,1,4,0.25
+128,A Separation,2011,1,2,0.5
+129,The Fantastic Flying Books of Mr. Morris Lessmore,2011,1,1,1.0
+130,The Shore,2011,1,1,1.0
+131,Undefeated,2011,1,1,1.0
+132,The Muppets,2011,1,1,1.0
+133,Saving Face,2011,1,1,1.0
+134,Beginners,2011,1,1,1.0
+135,Rango,2011,1,1,1.0
+136,The King's Speech,2010,4,12,0.333
+137,Inception,2010,4,8,0.5
+138,The Social Network,2010,3,8,0.375
+139,The Fighter,2010,2,7,0.286
+140,Toy Story 3,2010,2,5,0.4
+141,Alice in Wonderland,2010,2,3,0.667
+142,Black Swan,2010,1,5,0.2
+143,In a Better World,2010,1,1,1.0
+144,The Lost Thing,2010,1,1,1.0
+145,God of Love,2010,1,1,1.0
+146,The Wolfman,2010,1,1,1.0
+147,Strangers No More,2010,1,1,1.0
+148,Inside Job,2010,1,1,1.0
+149,The Hurt Locker,2009,6,9,0.667
+150,Avatar,2009,3,9,0.333
+151,Precious,2009,2,6,0.333
+152,Up,2009,2,5,0.4
+153,Crazy Heart,2009,2,3,0.667
+154,Inglourious Basterds,2009,1,8,0.125
+155,Star Trek,2009,1,4,0.25
+156,The Young Victoria,2009,1,3,0.333
+157,The Blind Side,2009,1,2,0.5
+158,Music by Prudence,2009,1,1,1.0
+159,The Secret in Their Eyes,2009,1,1,1.0
+160,The Cove,2009,1,1,1.0
+161,The New Tenants,2009,1,1,1.0
+162,Logorama,2009,1,1,1.0
+163,Slumdog Millionaire,2008,8,10,0.8
+164,The Curious Case of Benjamin Button,2008,3,13,0.231
+165,Milk,2008,2,8,0.25
+166,The Dark Knight,2008,2,8,0.25
+167,WALL-E,2008,1,6,0.167
+168,The Reader,2008,1,5,0.2
+169,The Duchess,2008,1,2,0.5
+170,Departures,2008,1,1,1.0
+171,Vicky Cristina Barcelona,2008,1,1,1.0
+172,Smile Pinki,2008,1,1,1.0
+173,Man on Wire,2008,1,1,1.0
+174,Toyland,2008,1,1,1.0
+175,La Maison en Petits Cubes,2008,1,1,1.0
+176,No Country for Old Men,2007,4,8,0.5
+177,The Bourne Ultimatum,2007,3,3,1.0
+178,There Will Be Blood,2007,2,8,0.25
+179,La Vie en rose,2007,2,3,0.667
+180,Atonement,2007,1,7,0.143
+181,Michael Clayton,2007,1,7,0.143
+182,Ratatouille,2007,1,5,0.2
+183,Juno,2007,1,4,0.25
+184,Sweeney Todd: The Demon Barber of Fleet Street,2007,1,3,0.333
+185,The Golden Compass,2007,1,2,0.5
+186,Elizabeth: The Golden Age,2007,1,2,0.5
+187,Taxi to the Dark Side,2007,1,1,1.0
+188,Peter & the Wolf,2007,1,1,1.0
+189,Once,2007,1,1,1.0
+190,Le Mozart des pickpockets,2007,1,1,1.0
+191,The Counterfeiters (Die Fälscher),2007,1,1,1.0
+192,Freeheld,2007,1,1,1.0
+193,The Departed,2006,4,5,0.8
+194,Pan's Labyrinth (El laberinto del fauno),2006,3,6,0.5
+195,Dreamgirls,2006,2,8,0.25
+196,Little Miss Sunshine,2006,2,4,0.5
+197,An Inconvenient Truth,2006,2,2,1.0
+198,Babel,2006,1,7,0.143
+199,The Queen,2006,1,6,0.167
+200,Letters from Iwo Jima,2006,1,4,0.25
+201,Pirates of the Caribbean: Dead Man's Chest,2006,1,4,0.25
+202,The Danish Poet,2006,1,1,1.0
+203,Happy Feet,2006,1,1,1.0
+204,The Last King of Scotland,2006,1,1,1.0
+205,The Lives of Others (Das Leben der Anderen),2006,1,1,1.0
+206,Marie Antoinette,2006,1,1,1.0
+207,West Bank Story,2006,1,1,1.0
+208,The Blood of Yingzhou District,2006,1,1,1.0
+209,Crash,2005,3,6,0.5
+210,Brokeback Mountain,2005,3,8,0.375
+211,Memoirs of a Geisha,2005,3,6,0.5
+212,King Kong,2005,3,4,0.75
+213,Capote,2005,1,5,0.2
+214,Walk the Line,2005,1,5,0.2
+215,The Constant Gardener,2005,1,4,0.25
+216,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,1,3,0.333
+217,Hustle & Flow,2005,1,2,0.5
+218,Syriana,2005,1,2,0.5
+219,March of the Penguins (La Marche de l'empereur),2005,1,1,1.0
+220,Six Shooter,2005,1,1,1.0
+221,The Moon and the Son: An Imagined Conversation,2005,1,1,1.0
+222,A Note of Triumph: The Golden Age of Norman Corwin,2005,1,1,1.0
+223,Tsotsi,2005,1,1,1.0
+224,Wallace & Gromit: The Curse of the Were-Rabbit,2005,1,1,1.0
+225,Million Dollar Baby,2004,4,7,0.571
+226,The Aviator,2004,5,11,0.455
+227,Ray,2004,2,6,0.333
+228,The Incredibles,2004,2,4,0.5
+229,Finding Neverland,2004,1,7,0.143
+230,Sideways,2004,1,5,0.2
+231,Lemony Snicket's A Series of Unfortunate Events,2004,1,4,0.25
+232,Spider-Man 2,2004,1,3,0.333
+233,Eternal Sunshine of the Spotless Mind,2004,1,2,0.5
+234,The Motorcycle Diaries,2004,1,2,0.5
+235,The Sea Inside,2004,1,2,0.5
+236,Born into Brothels,2004,1,1,1.0
+237,Mighty Times: The Children's March,2004,1,1,1.0
+238,Wasp,2004,1,1,1.0
+239,Ryan,2004,1,1,1.0
+240,The Lord of the Rings: The Return of the King,2003,11,11,1.0
+241,Master and Commander: The Far Side of the World,2003,2,10,0.2
+242,Mystic River,2003,2,6,0.333
+243,Cold Mountain,2003,1,7,0.143
+244,Lost in Translation,2003,1,4,0.25
+245,Finding Nemo,2003,1,4,0.25
+246,The Barbarian Invasions,2003,1,2,0.5
+247,Two Soldiers,2003,1,1,1.0
+248,Monster,2003,1,1,1.0
+249,Harvie Krumpet,2003,1,1,1.0
+250,Chernobyl Heart,2003,1,1,1.0
+251,The Fog of War,2003,1,1,1.0
+252,Chicago,2002,6,13,0.462
+253,The Pianist,2002,3,7,0.429
+254,The Lord of the Rings: The Two Towers,2002,2,6,0.333
+255,Frida,2002,2,6,0.333
+256,The Hours,2002,1,9,0.111
+257,Road to Perdition,2002,1,6,0.167
+258,Adaptation,2002,1,4,0.25
+259,Talk to Her (Hable con ella),2002,1,2,0.5
+260,This Charming Man (Der Er En Yndig Mand),2002,1,1,1.0
+261,Spirited Away,2002,1,1,1.0
+262,Nowhere in Africa (Nirgendwo in Afrika),2002,1,1,1.0
+263,The ChubbChubbs!,2002,1,1,1.0
+264,Twin Towers,2002,1,1,1.0
+265,Bowling for Columbine,2002,1,1,1.0
+266,8 Mile,2002,1,1,1.0
+267,A Beautiful Mind,2001,4,8,0.5
+268,The Lord of the Rings: The Fellowship of the Ring,2001,4,13,0.308
+269,Moulin Rouge!,2001,2,8,0.25
+270,Black Hawk Down,2001,2,4,0.5
+271,Gosford Park,2001,1,7,0.143
+272,"Monsters, Inc.",2001,1,4,0.25
+273,Pearl Harbor,2001,1,4,0.25
+274,Iris,2001,1,3,0.333
+275,Shrek,2001,1,2,0.5
+276,Training Day,2001,1,2,0.5
+277,Monster's Ball,2001,1,2,0.5
+278,Thoth,2001,1,1,1.0
+279,For the Birds,2001,1,1,1.0
+280,No Man's Land,2001,1,1,1.0
+281,Murder on a Sunday Morning (Un coupable idéal),2001,1,1,1.0
+282,The Accountant,2001,1,1,1.0
+283,Gladiator,2000,5,12,0.417
+284,"Crouching Tiger, Hidden Dragon",2000,4,10,0.4
+285,Traffic,2000,4,5,0.8
+286,Erin Brockovich,2000,1,5,0.2
+287,Almost Famous,2000,1,4,0.25
+288,Wonder Boys,2000,1,3,0.333
+289,How the Grinch Stole Christmas,2000,1,3,0.333
+290,U-571,2000,1,2,0.5
+291,Pollock,2000,1,2,0.5
+292,Father and Daughter,2000,1,1,1.0
+293,Into the Arms of Strangers: Stories of the Kindertransport,2000,1,1,1.0
+294,Quiero ser (I want to be...),2000,1,1,1.0
+295,Big Mama,2000,1,1,1.0
+296,American Beauty,1999,5,8,0.625
+297,The Matrix,1999,4,4,1.0
+298,The Cider House Rules,1999,2,7,0.286
+299,Topsy-Turvy,1999,2,4,0.5
+300,Sleepy Hollow,1999,1,3,0.333
+301,Boys Don't Cry,1999,1,2,0.5
+302,Tarzan,1999,1,1,1.0
+303,One Day in September,1999,1,1,1.0
+304,The Red Violin (Le violon rouge),1999,1,1,1.0
+305,The Old Man and the Sea,1999,1,1,1.0
+306,My Mother Dreams the Satan's Disciples in New York,1999,1,1,1.0
+307,King Gimp,1999,1,1,1.0
+308,"Girl, Interrupted",1999,1,1,1.0
+309,All About My Mother (Todo sobre mi madre),1999,1,1,1.0
+310,Shakespeare in Love,1998,7,13,0.538
+311,Saving Private Ryan,1998,5,11,0.455
+312,Life Is Beautiful (La vita è bella),1998,3,7,0.429
+313,Elizabeth,1998,1,7,0.143
+314,Gods and Monsters,1998,1,3,0.333
+315,The Prince of Egypt,1998,1,2,0.5
+316,Affliction,1998,1,2,0.5
+317,What Dreams May Come,1998,1,2,0.5
+318,The Personals,1998,1,1,1.0
+319,The Last Days,1998,1,1,1.0
+320,Election Night (Valgaften),1998,1,1,1.0
+321,Bunny,1998,1,1,1.0
+322,Titanic,1997,11,14,0.786
+323,Good Will Hunting,1997,2,9,0.222
+324,L.A. Confidential,1997,2,9,0.222
+325,As Good as It Gets,1997,2,7,0.286
+326,The Full Monty,1997,1,4,0.25
+327,Men in Black,1997,1,3,0.333
+328,Visas and Virtue,1997,1,1,1.0
+329,Character (Karakter),1997,1,1,1.0
+330,Geri's Game,1997,1,1,1.0
+331,A Story of Healing,1997,1,1,1.0
+332,The Long Way Home,1997,1,1,1.0
+333,The English Patient,1996,9,12,0.75
+334,Fargo,1996,2,7,0.286
+335,Shine,1996,1,7,0.143
+336,Evita,1996,1,5,0.2
+337,Jerry Maguire,1996,1,5,0.2
+338,Independence Day,1996,1,2,0.5
+339,Emma,1996,1,2,0.5
+340,Sling Blade,1996,1,2,0.5
+341,The Ghost and the Darkness,1996,1,1,1.0
+342,Kolya,1996,1,1,1.0
+343,The Nutty Professor,1996,1,1,1.0
+344,Quest,1996,1,1,1.0
+345,When We Were Kings,1996,1,1,1.0
+346,Breathing Lessons: The Life and Work of Mark O'Brien,1996,1,1,1.0
+347,Dear Diary,1996,1,1,1.0
+348,Braveheart,1995,5,10,0.5
+349,Apollo 13,1995,2,9,0.222
+350,Pocahontas,1995,2,2,1.0
+351,The Usual Suspects,1995,2,2,1.0
+352,Restoration,1995,2,2,1.0
+353,Babe,1995,1,7,0.143
+354,Sense and Sensibility,1995,1,7,0.143
+355,Il Postino: The Postman,1995,1,5,0.2
+356,Dead Man Walking,1995,1,4,0.25
+357,Leaving Las Vegas,1995,1,4,0.25
+358,Mighty Aphrodite,1995,1,2,0.5
+359,Anne Frank Remembered,1995,1,1,1.0
+360,A Close Shave,1995,1,1,1.0
+361,Lieberman in Love,1995,1,1,1.0
+362,One Survivor Remembers,1995,1,1,1.0
+363,Antonia's Line (Antonia),1995,1,1,1.0
+364,Toy Story,1995,0,3,0.0
+365,Forrest Gump,1994,6,13,0.462
+366,The Lion King,1994,2,4,0.5
+367,Speed,1994,2,3,0.667
+368,Ed Wood,1994,2,2,1.0
+369,Pulp Fiction,1994,1,7,0.143
+370,Bullets over Broadway,1994,1,7,0.143
+371,The Madness of King George,1994,1,4,0.25
+372,Legends of the Fall,1994,1,3,0.333
+373,A Time for Justice,1994,1,1,1.0
+374,Franz Kafka's It's a Wonderful Life,1994,1,1,1.0
+375,Maya Lin: A Strong Clear Vision,1994,1,1,1.0
+376,Burnt by the Sun (Utomlyonnye solntsem),1994,1,1,1.0
+377,Trevor,1994,1,1,1.0
+378,"The Adventures of Priscilla, Queen of the Desert",1994,1,1,1.0
+379,Bob's Birthday,1994,1,1,1.0
+380,Blue Sky,1994,1,1,1.0
+381,Schindler's List,1993,7,12,0.583
+382,The Piano,1993,3,8,0.375
+383,Jurassic Park,1993,3,3,1.0
+384,Philadelphia,1993,2,5,0.4
+385,The Fugitive,1993,1,7,0.143
+386,The Age of Innocence,1993,1,5,0.2
+387,The Wrong Trousers,1993,1,1,1.0
+388,Belle Epoque (The Beautiful Era),1993,1,1,1.0
+389,I Am a Promise: The Children of Stanton Elementary School,1993,1,1,1.0
+390,Mrs. Doubtfire,1993,1,1,1.0
+391,Black Rider (Schwarzfahrer),1993,1,1,1.0
+392,Defending Our Lives,1993,1,1,1.0
+393,Unforgiven,1992,4,9,0.444
+394,Howards End,1992,3,9,0.333
+395,Bram Stoker's Dracula,1992,3,4,0.75
+396,Aladdin,1992,2,5,0.4
+397,The Crying Game,1992,1,6,0.167
+398,Scent of a Woman,1992,1,4,0.25
+399,A River Runs Through It,1992,1,3,0.333
+400,Indochine,1992,1,2,0.5
+401,My Cousin Vinny,1992,1,1,1.0
+402,The Panama Deception,1992,1,1,1.0
+403,Educating Peter,1992,1,1,1.0
+404,The Last of the Mohicans,1992,1,1,1.0
+405,Death Becomes Her,1992,1,1,1.0
+406,Omnibus,1992,1,1,1.0
+407,Mona Lisa Descending a Staircase,1992,1,1,1.0
+408,The Silence of the Lambs,1991,5,7,0.714
+409,Terminator 2: Judgment Day,1991,4,6,0.667
+410,Bugsy,1991,2,10,0.2
+411,JFK,1991,2,8,0.25
+412,Beauty and the Beast,1991,2,6,0.333
+413,Thelma & Louise,1991,1,6,0.167
+414,The Fisher King,1991,1,5,0.2
+415,In the Shadow of the Stars,1991,1,1,1.0
+416,Manipulation,1991,1,1,1.0
+417,Mediterraneo,1991,1,1,1.0
+418,Session Man,1991,1,1,1.0
+419,City Slickers,1991,1,1,1.0
+420,"Deadly Deception: General Electric, Nuclear Weapons and Our Environment",1991,1,1,1.0
+421,Dances with Wolves,1990,7,12,0.583
+422,Dick Tracy,1990,3,7,0.429
+423,Ghost,1990,2,5,0.4
+424,Goodfellas,1990,1,6,0.167
+425,The Hunt for Red October,1990,1,3,0.333
+426,Reversal of Fortune,1990,1,3,0.333
+427,Cyrano de Bergerac,1990,1,5,0.2
+428,American Dream,1990,1,1,1.0
+429,Journey of Hope (Reise der Hoffnung),1990,1,1,1.0
+430,Days of Waiting,1990,1,1,1.0
+431,Creature Comforts,1990,1,1,1.0
+432,The Lunch Date,1990,1,1,1.0
+433,Misery,1990,1,1,1.0
+434,Total Recall,1990,0,2,0.0
+435,Driving Miss Daisy,1989,4,9,0.444
+436,Glory,1989,3,5,0.6
+437,Born on the Fourth of July,1989,2,8,0.25
+438,My Left Foot,1989,2,5,0.4
+439,The Little Mermaid,1989,2,3,0.667
+440,Dead Poets Society,1989,1,4,0.25
+441,The Abyss,1989,1,4,0.25
+442,Indiana Jones and the Last Crusade,1989,1,3,0.333
+443,Henry V,1989,1,3,0.333
+444,The Johnstown Flood,1989,1,1,1.0
+445,Common Threads: Stories from the Quilt,1989,1,1,1.0
+446,Cinema Paradiso,1989,1,1,1.0
+447,Work Experience,1989,1,1,1.0
+448,Batman,1989,1,1,1.0
+449,Balance,1989,1,1,1.0
+450,Rain Man,1988,4,8,0.5
+451,Dangerous Liaisons,1988,3,7,0.429
+452,Who Framed Roger Rabbit,1988,3,6,0.5
+453,Mississippi Burning,1988,1,7,0.143
+454,Working Girl,1988,1,6,0.167
+455,The Accidental Tourist,1988,1,4,0.25
+456,A Fish Called Wanda,1988,1,3,0.333
+457,Pelle the Conqueror (Pelle erobreren),1988,1,2,0.5
+458,The Accused,1988,1,1,1.0
+459,The Appointments of Dennis Jennings,1988,1,1,1.0
+460,Beetlejuice,1988,1,1,1.0
+461,Bird,1988,1,1,1.0
+462,Hôtel Terminus: The Life and Times of Klaus Barbie,1988,1,1,1.0
+463,The Milagro Beanfield War,1988,1,1,1.0
+464,Tin Toy,1988,1,1,1.0
+465,You Don't Have to Die,1988,1,1,1.0
+466,The Last Emperor,1987,9,9,1.0
+467,Moonstruck,1987,3,6,0.5
+468,The Untouchables,1987,1,4,0.25
+469,Babette's Feast (Babettes gæstebud),1987,1,1,1.0
+470,Dirty Dancing,1987,1,1,1.0
+471,Harry and the Hendersons,1987,1,1,1.0
+472,Innerspace,1987,1,1,1.0
+473,The Man Who Planted Trees (L' Homme qui plantait des arbres),1987,1,1,1.0
+474,Ray's Male Heterosexual Dance Hall,1987,1,1,1.0
+475,The Ten-Year Lunch,1987,1,1,1.0
+476,Wall Street,1987,1,1,1.0
+477,Young at Heart,1987,1,1,1.0
+478,RoboCop,1987,0,2,0.0
+479,Platoon,1986,4,8,0.5
+480,A Room with a View,1986,3,8,0.375
+481,Hannah and Her Sisters,1986,3,7,0.429
+482,Aliens,1986,2,7,0.286
+483,The Mission,1986,1,7,0.143
+484,Children of a Lesser God,1986,1,5,0.2
+485,The Color of Money,1986,1,4,0.25
+486,Top Gun,1986,1,4,0.25
+487,Round Midnight,1986,1,2,0.5
+488,Artie Shaw: Time Is All You've Got,1986,1,1,1.0
+489,The Assault (De Aanslag),1986,1,1,1.0
+490,Down and Out in America,1986,1,1,1.0
+491,The Fly,1986,1,1,1.0
+492,A Greek Tragedy,1986,1,1,1.0
+493,Precious Images,1986,1,1,1.0
+494,"Women – for America, for the World",1986,1,1,1.0
+495,Out of Africa,1985,7,11,0.636
+496,Witness,1985,2,8,0.25
+497,Cocoon,1985,2,2,1.0
+498,Prizzi's Honor,1985,1,8,0.125
+499,Back to the Future,1985,1,4,0.25
+500,Kiss of the Spider Woman,1985,1,4,0.25
+501,Ran,1985,1,4,0.25
+502,The Official Story (La Historia Oficial),1985,1,2,0.5
+503,The Trip to Bountiful,1985,1,2,0.5
+504,White Nights,1985,1,2,0.5
+505,Anna & Bella,1985,1,1,1.0
+506,Broken Rainbow,1985,1,1,1.0
+507,Mask,1985,1,1,1.0
+508,Molly's Pilgrim,1985,1,1,1.0
+509,Witness to War: Dr. Charlie Clements,1985,1,1,1.0
+510,Amadeus,1984,8,11,0.727
+511,The Killing Fields,1984,3,7,0.429
+512,A Passage to India,1984,2,11,0.182
+513,Places in the Heart,1984,2,7,0.286
+514,Indiana Jones and the Temple of Doom,1984,1,2,0.5
+515,Charade,1984,1,1,1.0
+516,Dangerous Moves (La Diagonale du fou),1984,1,1,1.0
+517,Purple Rain,1984,1,1,1.0
+518,The Stone Carvers,1984,1,1,1.0
+519,The Times of Harvey Milk,1984,1,1,1.0
+520,Up,1984,1,1,1.0
+521,The Woman in Red,1984,1,1,1.0
+522,The River,1984,0,4,0.0
+523,Terms of Endearment,1983,5,11,0.455
+524,The Right Stuff,1983,4,8,0.5
+525,Fanny & Alexander (Fanny och Alexander),1983,4,6,0.667
+526,Tender Mercies,1983,2,5,0.4
+527,Yentl,1983,1,5,0.2
+528,Flashdance,1983,1,4,0.25
+529,Boys and Girls,1983,1,1,1.0
+530,Flamenco at 5:15,1983,1,1,1.0
+531,He Makes Me Feel Like Dancin',1983,1,1,1.0
+532,Sundae in New York,1983,1,1,1.0
+533,The Year of Living Dangerously,1983,1,1,1.0
+534,Return of the Jedi,1983,0,4,0.0
+535,Gandhi,1982,8,11,0.727
+536,E.T.: The Extra-Terrestrial,1982,4,9,0.444
+537,An Officer and a Gentleman,1982,2,6,0.333
+538,Tootsie,1982,1,10,0.1
+539,Victor/Victoria,1982,1,7,0.143
+540,Sophie's Choice,1982,1,5,0.2
+541,Missing,1982,1,4,0.25
+542,If You Love This Planet,1982,1,1,1.0
+543,Just Another Missing Kid,1982,1,1,1.0
+544,A Shocking Accident,1982,1,1,1.0
+545,Tango,1982,1,1,1.0
+546,To Begin Again (Volver a empezar),1982,1,1,1.0
+547,Quest for Fire,1982,1,1,1.0
+548,Chariots of Fire,1981,4,7,0.571
+549,Raiders of the Lost Ark,1981,4,8,0.5
+550,Reds,1981,3,12,0.25
+551,On Golden Pond,1981,3,10,0.3
+552,Arthur,1981,2,4,0.5
+553,An American Werewolf in London,1981,1,1,1.0
+554,Close Harmony,1981,1,1,1.0
+555,Crac,1981,1,1,1.0
+556,Genocide,1981,1,1,1.0
+557,Mephisto,1981,1,1,1.0
+558,Violet,1981,1,1,1.0
+559,Ordinary People,1980,4,6,0.667
+560,Tess,1980,3,6,0.5
+561,Raging Bull,1980,2,8,0.25
+562,Fame,1980,2,6,0.333
+563,Melvin and Howard,1980,2,3,0.667
+564,Coal Miner's Daughter,1980,1,7,0.143
+565,The Empire Strikes Back,1980,1,3,0.333
+566,The Dollar Bottom,1980,1,1,1.0
+567,The Fly (A Légy),1980,1,1,1.0
+568,From Mao to Mozart: Isaac Stern in China,1980,1,1,1.0
+569,Karl Hess: Toward Liberty,1980,1,1,1.0
+570,Moscow Does Not Believe in Tears,1980,1,1,1.0
+571,Kramer vs. Kramer,1979,5,9,0.556
+572,All That Jazz,1979,4,9,0.444
+573,Apocalypse Now,1979,2,8,0.25
+574,Norma Rae,1979,2,4,0.5
+575,Breaking Away,1979,1,5,0.2
+576,Alien,1979,1,2,0.5
+577,Being There,1979,1,2,0.5
+578,A Little Romance,1979,1,2,0.5
+579,Best Boy,1979,1,1,1.0
+580,Board and Care,1979,1,1,1.0
+581,Every Child,1979,1,1,1.0
+582,Paul Robeson: Tribute to an Artist,1979,1,1,1.0
+583,The Tin Drum (Die Blechtrommel),1979,1,1,1.0
+584,The Black Stallion,1979,0,2,0.0
+585,The Deer Hunter,1978,5,9,0.556
+586,Coming Home,1978,3,8,0.375
+587,Midnight Express,1978,2,6,0.333
+588,Heaven Can Wait,1978,1,9,0.111
+589,Days of Heaven,1978,1,4,0.25
+590,California Suite,1978,1,3,0.333
+591,The Buddy Holly Story,1978,1,3,0.333
+592,Death on the Nile,1978,1,1,1.0
+593,The Flight of the Gossamer Condor,1978,1,1,1.0
+594,Get Out Your Handkerchiefs (Préparez vos mouchoirs),1978,1,1,1.0
+595,Scared Straight!,1978,1,1,1.0
+596,Special Delivery,1978,1,1,1.0
+597,Teenage Father,1978,1,1,1.0
+598,Thank God It's Friday,1978,1,1,1.0
+599,Superman,1978,0,3,0.0
+600,Annie Hall,1977,4,5,0.8
+601,Star Wars,1977,6,10,0.6
+602,Julia,1977,3,11,0.273
+603,Close Encounters of the Third Kind,1977,1,8,0.125
+604,The Goodbye Girl,1977,1,5,0.2
+605,A Little Night Music,1977,1,2,0.5
+606,Gravity Is My Enemy,1977,1,1,1.0
+607,I'll Find a Way,1977,1,1,1.0
+608,Madame Rosa (La Vie devant soi),1977,1,1,1.0
+609,The Sand Castle (Le Château de sable),1977,1,1,1.0
+610,Who Are the DeBolts? And Where Did They Get Nineteen Kids?,1977,1,1,1.0
+611,You Light Up My Life,1977,1,1,1.0
+612,Rocky,1976,3,10,0.3
+613,Network,1976,4,10,0.4
+614,All the President's Men,1976,4,8,0.5
+615,Bound for Glory,1976,2,6,0.333
+616,A Star Is Born,1976,1,4,0.25
+617,Fellini's Casanova (Il Casanova di Federico Fellini),1976,1,2,0.5
+618,The Omen,1976,1,2,0.5
+619,Black and White in Color (Noirs et blancs en couleur),1976,1,1,1.0
+620,"Harlan County, USA",1976,1,1,1.0
+621,In the Region of Ice,1976,1,1,1.0
+622,Leisure,1976,1,1,1.0
+623,Number Our Days,1976,1,1,1.0
+624,King Kong,1976,0,2,0.0
+625,Logan's Run,1976,0,2,0.0
+626,One Flew over the Cuckoo's Nest,1975,5,9,0.556
+627,Barry Lyndon,1975,4,7,0.571
+628,Jaws,1975,3,4,0.75
+629,Dog Day Afternoon,1975,1,6,0.167
+630,Nashville,1975,1,5,0.2
+631,Shampoo,1975,1,4,0.25
+632,The Sunshine Boys,1975,1,4,0.25
+633,Angel and Big Joe,1975,1,1,1.0
+634,Dersu Uzala,1975,1,1,1.0
+635,The End of the Game,1975,1,1,1.0
+636,Great (Great (Isambard Kingdom Brunel)),1975,1,1,1.0
+637,The Man Who Skied Down Everest,1975,1,1,1.0
+638,The Hindenburg,1975,0,3,0.0
+639,The Godfather Part II,1974,6,11,0.545
+640,The Towering Inferno,1974,3,8,0.375
+641,The Great Gatsby,1974,2,2,1.0
+642,Chinatown,1974,1,11,0.091
+643,Murder on the Orient Express,1974,1,6,0.167
+644,Earthquake,1974,1,4,0.25
+645,Alice Doesn't Live Here Anymore,1974,1,3,0.333
+646,Amarcord,1974,1,3,0.333
+647,Harry and Tonto,1974,1,2,0.5
+648,Closed Mondays,1974,1,1,1.0
+649,Don't,1974,1,1,1.0
+650,Hearts and Minds,1974,1,1,1.0
+651,"One-Eyed Men Are Kings (...borgnes sont rois, Les)",1974,1,1,1.0
+652,The Sting,1973,7,10,0.7
+653,The Exorcist,1973,2,10,0.2
+654,The Way We Were,1973,2,6,0.333
+655,Cries and Whispers (Viskningar och rop),1973,1,5,0.2
+656,A Touch of Class,1973,1,5,0.2
+657,Day for Night (La Nuit américaine),1973,1,4,0.25
+658,Paper Moon,1973,1,4,0.25
+659,The Paper Chase,1973,1,3,0.333
+660,Save the Tiger,1973,1,3,0.333
+661,The Bolero,1973,1,1,1.0
+662,Frank Film,1973,1,1,1.0
+663,The Great American Cowboy,1973,1,1,1.0
+664,Princeton: A Search for Answers,1973,1,1,1.0
+665,The Godfather,1972,3,10,0.3
+666,Cabaret,1972,8,10,0.8
+667,The Poseidon Adventure,1972,1,8,0.125
+668,Travels with My Aunt,1972,1,4,0.25
+669,Butterflies Are Free,1972,1,3,0.333
+670,The Candidate,1972,1,2,0.5
+671,The Discreet Charm of the Bourgeoisie (Le charme discret de la bourgeoisie),1972,1,2,0.5
+672,A Christmas Carol,1972,1,1,1.0
+673,Limelight,1972,1,1,1.0
+674,Marjoe,1972,1,1,1.0
+675,Norman Rockwell's World... An American Dream,1972,1,1,1.0
+676,This Tiny World,1972,1,1,1.0
+677,The French Connection,1971,5,8,0.625
+678,Fiddler on the Roof,1971,3,8,0.375
+679,The Last Picture Show,1971,2,8,0.25
+680,Nicholas and Alexandra,1971,2,6,0.333
+681,Sentinels of Silence,1971,2,2,1.0
+682,Bedknobs and Broomsticks,1971,1,5,0.2
+683,Summer of '42,1971,1,4,0.25
+684,The Garden of the Finzi-Continis (Il Giardino dei Finzi-Contini),1971,1,2,0.5
+685,The Hospital,1971,1,2,0.5
+686,Klute,1971,1,2,0.5
+687,Shaft,1971,1,2,0.5
+688,The Crunch Bird,1971,1,1,1.0
+689,The Hellstrom Chronicle,1971,1,1,1.0
+690,Patton,1970,7,10,0.7
+691,Ryan's Daughter,1970,2,4,0.5
+692,Airport,1970,1,10,0.1
+693,Love Story,1970,1,7,0.143
+694,M*A*S*H,1970,1,5,0.2
+695,Tora! Tora! Tora!,1970,1,5,0.2
+696,Women in Love,1970,1,4,0.25
+697,Lovers and Other Strangers,1970,1,3,0.333
+698,Woodstock,1970,1,3,0.333
+699,Cromwell,1970,1,2,0.5
+700,Investigation of a Citizen Above Suspicion (Indagine su un cittadino al di sopra di ogni sospetto),1970,1,2,0.5
+701,Interviews with My Lai Veterans,1970,1,1,1.0
+702,Is It Always Right to Be Right?,1970,1,1,1.0
+703,Let It Be,1970,1,1,1.0
+704,The Resurrection of Broncho Billy,1970,1,1,1.0
+705,Midnight Cowboy,1969,3,7,0.429
+706,Butch Cassidy and the Sundance Kid,1969,4,7,0.571
+707,"Hello, Dolly!",1969,3,7,0.429
+708,Z,1969,2,5,0.4
+709,Anne of the Thousand Days,1969,1,10,0.1
+710,"They Shoot Horses, Don't They?",1969,1,9,0.111
+711,Marooned,1969,1,3,0.333
+712,The Magic Machines,1969,1,2,0.5
+713,The Prime of Miss Jean Brodie,1969,1,2,0.5
+714,True Grit,1969,1,2,0.5
+715,Arthur Rubinstein – The Love of Life (L'amour de la vie - Artur Rubinstein),1969,1,1,1.0
+716,Cactus Flower,1969,1,1,1.0
+717,Czechoslovakia 1968,1969,1,1,1.0
+718,It's Tough to Be a Bird,1969,1,1,1.0
+719,Oliver!,1968,5,11,0.455
+720,The Lion in Winter,1968,3,7,0.429
+721,Romeo and Juliet,1968,2,4,0.5
+722,Funny Girl,1968,1,8,0.125
+723,2001: A Space Odyssey,1968,1,4,0.25
+724,Bullitt,1968,1,2,0.5
+725,The Producers,1967,1,2,0.5
+726,Rosemary's Baby,1968,1,2,0.5
+727,The Subject Was Roses,1968,1,2,0.5
+728,The Thomas Crown Affair,1968,1,2,0.5
+729,War and Peace (Voyna i mir),1968,1,2,0.5
+730,Charly,1968,1,1,1.0
+731,Journey into Self,1968,1,1,1.0
+732,Robert Kennedy Remembered,1968,1,1,1.0
+733,Why Man Creates,1968,1,1,1.0
+734,Winnie the Pooh and the Blustery Day,1968,1,1,1.0
+735,Planet of the Apes,1968,0,2,0.0
+736,In the Heat of the Night,1967,5,7,0.714
+737,Camelot,1967,3,5,0.6
+738,Bonnie and Clyde,1967,2,10,0.2
+739,Guess Who's Coming to Dinner,1967,2,10,0.2
+740,Doctor Dolittle,1967,2,9,0.222
+741,The Graduate,1967,1,7,0.143
+742,Thoroughly Modern Millie,1967,1,7,0.143
+743,Cool Hand Luke,1967,1,4,0.25
+744,The Dirty Dozen,1967,1,4,0.25
+745,A Place to Stand,1967,1,2,0.5
+746,The Anderson Platoon (La Section Anderson),1967,1,1,1.0
+747,The Box,1967,1,1,1.0
+748,Closely Watched Trains (Ostre sledované vlaky),1967,1,1,1.0
+749,The Redwoods,1967,1,1,1.0
+750,A Man for All Seasons,1966,6,8,0.75
+751,Who's Afraid of Virginia Woolf?,1966,5,13,0.385
+752,Grand Prix,1966,3,3,1.0
+753,Fantastic Voyage,1966,2,5,0.4
+754,A Man and a Woman,1966,2,4,0.5
+755,Born Free,1966,2,2,1.0
+756,The Fortune Cookie,1966,1,4,0.25
+757,A Funny Thing Happened on the Way to the Forum,1966,1,1,1.0
+758,A Herb Alpert and the Tijuana Brass Double Feature,1966,1,1,1.0
+759,The War Game,1966,1,1,1.0
+760,Wild Wings,1966,1,1,1.0
+761,A Year Toward Tomorrow,1966,1,1,1.0
+762,The Sound of Music,1965,5,10,0.5
+763,Doctor Zhivago,1965,5,10,0.5
+764,Darling,1965,3,5,0.6
+765,Ship of Fools,1965,2,8,0.25
+766,Cat Ballou,1965,1,5,0.2
+767,The Great Race,1965,1,5,0.2
+768,A Patch of Blue,1965,1,5,0.2
+769,A Thousand Clowns,1965,1,4,0.25
+770,The Shop on Main Street (Obchod na korze),1965,1,2,0.5
+771,The Sandpiper,1965,1,1,1.0
+772,The Eleanor Roosevelt Story,1965,1,1,1.0
+773,To Be Alive!,1965,1,1,1.0
+774,7th Heaven,1927,3,5,0.6
+775,"20,000 Leagues Under the Sea",1954,2,3,0.667
+776,Adventures of Don Juan,1949,1,2,0.5
+777,The Adventures of Robin Hood,1938,3,4,0.75
+778,The African Queen,1951,1,4,0.25
+779,Air Force,1943,1,4,0.25
+780,The Alamo,1960,1,7,0.143
+781,The Alaskan Eskimo,1953,1,1,1.0
+782,Albert Schweitzer,1957,1,1,1.0
+783,Alexander's Ragtime Band,1938,1,6,0.167
+784,All About Eve,1950,6,14,0.429
+785,All Quiet on the Western Front,1929,2,4,0.5
+786,All That Money Can Buy,1941,1,2,0.5
+787,All the King's Men,1949,3,7,0.429
+788,Ama Girls,1958,1,1,1.0
+789,America America,1963,1,4,0.25
+790,An American in Paris,1951,6,8,0.75
+791,Amphibious Fighters,1943,1,1,1.0
+792,Anastasia,1956,1,2,0.5
+793,Anchors Aweigh,1945,1,5,0.2
+794,Anna and the King of Siam,1946,2,5,0.4
+795,Annie Get Your Gun,1950,1,4,0.25
+796,Anthony Adverse,1936,4,7,0.571
+797,The Apartment,1960,5,10,0.5
+798,Aquatic House Party,1949,1,1,1.0
+799,"Arise, My Love",1940,1,4,0.25
+800,Around the World in 80 Days,1956,5,8,0.625
+801,The Awful Truth,1937,1,6,0.167
+802,The Bachelor and the Bobby-Soxer,1947,1,1,1.0
+803,The Bad and the Beautiful,1952,5,6,0.833
+804,Bad Girl,1931,2,3,0.667
+805,The Barefoot Contessa,1954,1,2,0.5
+806,The Battle of Midway,1942,1,1,1.0
+807,Battleground,1949,2,6,0.333
+808,Bear Country,1953,1,1,1.0
+809,Becket,1964,1,12,0.083
+810,The Bells of St. Mary's,1945,1,8,0.125
+811,Ben-Hur,1959,1,12,0.083
+812,Benjy,1951,1,1,1.0
+813,The Bespoke Overcoat,1956,1,1,1.0
+814,The Best Years of Our Lives,1946,7,8,0.875
+815,Beyond the Line of Duty,1942,1,1,1.0
+816,Bicycle Thieves,1949,0,1,0.0
+817,The Big Broadcast of 1938,1938,1,1,1.0
+818,The Big Country,1958,1,2,0.5
+819,The Big House,1929,2,4,0.5
+820,Bill and Coo,1948,0,0,
+821,Birds Anonymous,1957,1,1,1.0
+822,The Bishop's Wife,1947,1,5,0.2
+823,Black Fox: The Rise and Fall of Adolf Hitler (The Black Fox),1962,1,1,1.0
+824,Black Narcissus,1947,2,2,1.0
+825,Black Orpheus (Orfeu Negro),1959,1,1,1.0
+826,The Black Swan,1942,1,3,0.333
+827,Blithe Spirit,1946,1,1,1.0
+828,Blood and Sand,1941,1,2,0.5
+829,Blood on the Sun,1945,1,1,1.0
+830,Blossoms in the Dust,1941,1,4,0.25
+831,Body and Soul,1947,1,3,0.333
+832,Bored of Education,1936,1,1,1.0
+833,Born Yesterday,1950,1,5,0.2
+834,A Boy and His Dog,1946,1,1,1.0
+835,Boys Town,1938,2,5,0.4
+836,The Brave One,1956,1,3,0.333
+837,Breakfast at Tiffany's,1961,2,5,0.4
+838,Breaking the Sound Barrier,1952,1,2,0.5
+839,The Bridge of San Luis Rey,1928,1,1,1.0
+840,The Bridge on the River Kwai,1957,7,8,0.875
+841,The Bridges at Toko-Ri,1955,1,2,0.5
+842,Broadway Melody of 1936,1935,1,3,0.333
+843,The Broadway Melody,1928,1,3,0.333
+844,Broken Lance,1954,1,2,0.5
+845,Busy Little Bears,1939,1,1,1.0
+846,BUtterfield 8,1960,1,2,0.5
+847,Calamity Jane,1953,1,3,0.333
+848,Call Me Madam,1953,1,2,0.5
+849,"Captain Carey, U.S.A.",1950,1,1,1.0
+850,Captains Courageous,1937,1,4,0.25
+851,Casablanca,1943,3,8,0.375
+852,Casals Conducts: 1964,1964,1,1,1.0
+853,The Cat Concerto,1946,1,1,1.0
+854,Cavalcade,1932,3,4,0.75
+855,Chagall,1963,1,1,1.0
+856,The Champ,1931,2,4,0.5
+857,Champion,1949,1,6,0.167
+858,A Chance to Live,1949,1,1,1.0
+859,The Charge of the Light Brigade,1936,1,3,0.333
+860,The Chicken (Le Poulet),1965,1,1,1.0
+861,Churchill's Island,1941,1,1,1.0
+862,Cimarron,1930,3,7,0.429
+863,The Circus,1927,0,0,
+864,Citizen Kane,1941,1,9,0.111
+865,City of Wax,1934,1,1,1.0
+866,Cleopatra,1934,1,5,0.2
+867,Cleopatra,1963,4,9,0.444
+868,Climbing the Matterhorn,1947,1,1,1.0
+869,Come and Get It,1936,1,2,0.5
+870,"Come Back, Little Sheba",1952,1,3,0.333
+871,Coquette,1928,1,1,1.0
+872,The Country Cousin,1936,1,1,1.0
+873,The Country Girl,1954,2,7,0.286
+874,Cover Girl,1944,1,5,0.2
+875,The Cowboy and the Lady,1938,1,3,0.333
+876,Crash Dive,1943,1,1,1.0
+877,Crashing the Water Barrier,1956,1,1,1.0
+878,The Critic,1963,1,1,1.0
+879,La Cucaracha,1934,1,1,1.0
+880,Cyrano de Bergerac,1950,1,1,1.0
+881,A Damsel in Distress,1937,1,2,0.5
+882,Dangerous,1935,1,1,1.0
+883,The Dark Angel,1935,1,3,0.333
+884,The Dawn Patrol,1930,1,1,1.0
+885,Day of the Painter,1960,1,1,1.0
+886,Daybreak in Udi,1949,1,1,1.0
+887,Days of Wine and Roses,1962,1,5,0.2
+888,December 7th,1943,1,1,1.0
+889,Declaration of Independence,1938,1,1,1.0
+890,The Defiant Ones,1958,2,9,0.222
+891,Der Fuehrer's Face,1942,1,1,1.0
+892,Desert Victory,1943,1,1,1.0
+893,Design for Death,1947,1,1,1.0
+894,Designing Woman,1957,1,1,1.0
+895,Destination Moon,1950,1,2,0.5
+896,The Diary of Anne Frank,1959,3,8,0.375
+897,Disraeli,1929,1,3,0.333
+898,The Divine Lady,1928,1,3,0.333
+899,Divorce Italian Style,1962,1,3,0.333
+900,The Divorcee,1929,1,4,0.25
+901,Dodsworth,1936,1,7,0.143
+902,The Dot and the Line (The Dot and the Line: A Romance in Lower Mathematics),1965,1,1,1.0
+903,A Double Life,1947,2,4,0.5
+904,The Dove,1927,1,1,1.0
+905,Dr. Jekyll and Mr. Hyde,1931,1,3,0.333
+906,Dumbo,1941,1,2,0.5
+907,Dylan Thomas,1962,1,1,1.0
+908,East of Eden,1955,1,4,0.25
+909,Easter Parade,1948,1,1,1.0
+910,Elmer Gantry,1960,3,5,0.6
+911,The Enemy Below,1957,1,1,1.0
+912,Eskimo,1934,1,1,1.0
+913,Exodus,1960,1,3,0.333
+914,The Face of Lincoln,1955,1,2,0.5
+915,Facing Your Danger,1946,1,1,1.0
+916,The Facts of Life,1960,1,5,0.2
+917,Fantasia,1940,0,0,
+918,A Farewell to Arms,1932,2,4,0.5
+919,The Farmer's Daughter,1947,1,2,0.5
+920,Father Goose,1964,1,3,0.333
+921,Federico Fellini's 8½,1963,2,5,0.4
+922,Ferdinand the Bull,1938,1,1,1.0
+923,The Fighting Lady,1944,1,1,1.0
+924,First Steps,1947,1,1,1.0
+925,Flowers and Trees,1931,1,1,1.0
+926,Folies Bergere,1935,1,1,1.0
+927,For Scent-imental Reasons,1949,1,1,1.0
+928,For Whom the Bell Tolls,1943,1,9,0.111
+929,Forbidden Games,1952,0,1,0.0
+930,A Force in Readiness,1961,0,0,
+931,A Free Soul,1930,1,3,0.333
+932,Frenchman's Creek,1945,1,1,1.0
+933,From Here to Eternity,1953,8,13,0.615
+934,The Garden of Allah,1936,0,2,0.0
+935,Gaslight,1944,2,7,0.286
+936,Gate of Hell (Jigokumon),1954,1,1,1.0
+937,The Gay Divorcee,1934,1,5,0.2
+938,Gentleman's Agreement,1947,3,8,0.375
+939,Gerald McBoing-Boing,1950,1,1,1.0
+940,Giant,1956,1,10,0.1
+941,Gigi,1958,9,9,1.0
+942,Giuseppina,1960,1,1,1.0
+943,Give Me Liberty,1936,1,1,1.0
+944,Glass (Glas),1959,1,1,1.0
+945,The Glenn Miller Story,1954,1,3,0.333
+946,Going My Way,1944,7,10,0.7
+947,Gold Diggers of 1935,1935,1,2,0.5
+948,The Golden Fish (Histoire d'un poisson rouge),1959,1,1,1.0
+949,Goldfinger,1964,1,1,1.0
+950,Gone with the Wind,1939,8,13,0.615
+951,The Good Earth,1937,2,5,0.4
+952,"Goodbye, Miss Turlock",1947,1,1,1.0
+953,"Goodbye, Mr. Chips",1939,1,7,0.143
+954,Grand Canyon,1958,1,1,1.0
+955,Grand Hotel,1931,1,1,1.0
+956,Grandad of Races,1950,1,1,1.0
+957,The Grapes of Wrath,1940,2,7,0.286
+958,The Great Caruso,1951,1,3,0.333
+959,Great Expectations,1947,2,5,0.4
+960,The Great Lie,1941,1,1,1.0
+961,The Great McGinty,1940,1,1,1.0
+962,The Great Waltz,1938,1,3,0.333
+963,The Great Ziegfeld,1936,3,7,0.429
+964,The Greatest Show on Earth,1952,2,5,0.4
+965,Green Dolphin Street,1947,1,4,0.25
+966,The Guns of Navarone,1961,1,7,0.143
+967,Hamlet,1948,4,7,0.571
+968,Happy Anniversary (Heureux Anniversaire),1962,1,1,1.0
+969,Harvey,1950,1,2,0.5
+970,The Harvey Girls,1946,1,2,0.5
+971,Heavenly Music,1943,1,1,1.0
+972,The Heiress,1949,4,8,0.5
+973,Helen Keller in Her Story (The Unconquered),1955,1,1,1.0
+974,"Hello, Frisco, Hello",1943,1,2,0.5
+975,Henry V,1946,0,4,0.0
+976,Here Comes Mr. Jordan,1941,2,7,0.286
+977,Here Comes the Groom,1951,1,2,0.5
+978,The High and the Mighty,1954,1,6,0.167
+979,High Noon,1952,4,7,0.571
+980,Hitler Lives,1945,1,1,1.0
+981,A Hole in the Head,1959,1,1,1.0
+982,The Hole,1962,1,1,1.0
+983,Holiday Inn,1942,1,3,0.333
+984,The Horse with the Flying Tail,1960,1,1,1.0
+985,The House I Live In,1945,0,0,
+986,The House on 92nd Street,1945,1,1,1.0
+987,How Green Was My Valley,1941,5,10,0.5
+988,How the West Was Won,1963,3,8,0.375
+989,How to Sleep,1935,1,1,1.0
+990,Hud,1963,3,7,0.429
+991,The Human Comedy,1943,1,5,0.2
+992,The Hurricane,1937,1,3,0.333
+993,The Hustler,1961,2,9,0.222
+994,I Want to Live!,1958,1,6,0.167
+995,I Wanted Wings,1941,1,1,1.0
+996,I Won't Play,1944,1,1,1.0
+997,I'll Cry Tomorrow,1955,1,4,0.25
+998,In Beaver Valley,1950,1,1,1.0
+999,In Old Arizona,1928,1,5,0.2
+1000,In Old Chicago,1937,2,6,0.333
+1001,In Which We Serve,1942,0,2,0.0
+1002,The Informer,1935,4,6,0.667
+1003,Interrupted Melody,1955,1,3,0.333
+1004,The Invaders,1942,1,3,0.333
+1005,Irma la Douce,1963,1,3,0.333
+1006,It Happened One Night,1934,5,5,1.0
+1007,"It's a Mad, Mad, Mad, Mad World",1963,1,6,0.167
+1008,The Jazz Singer,1927,0,1,0.0
+1009,Jezebel,1938,2,5,0.4
+1010,Joan of Arc,1948,2,7,0.286
+1011,Johann Mouse,1952,1,1,1.0
+1012,Johnny Belinda,1948,1,12,0.083
+1013,Johnny Eager,1942,1,1,1.0
+1014,The Joker Is Wild,1957,1,1,1.0
+1015,The Jolson Story,1946,2,6,0.333
+1016,Judgment at Nuremberg,1961,2,11,0.182
+1017,Julius Caesar,1953,1,5,0.2
+1018,Kentucky,1938,1,1,1.0
+1019,Key Largo,1948,1,1,1.0
+1020,The King and I,1956,5,9,0.556
+1021,King of Jazz,1929,1,1,1.0
+1022,King Solomon's Mines,1950,2,3,0.667
+1023,Kitty Foyle (Kitty Foyle: The Natural History of a Woman),1940,1,5,0.2
+1024,Knighty Knight Bugs,1958,1,1,1.0
+1025,Kokoda Front Line!,1942,1,1,1.0
+1026,Kon-Tiki,1950,1,1,1.0
+1027,Krakatoa,1932,1,1,1.0
+1028,Kukan,1941,0,0,
+1029,La Strada (The Road),1956,1,2,0.5
+1030,La Dolce Vita,1961,1,4,0.25
+1031,Lady Be Good,1941,1,1,1.0
+1032,The Last Command,1927,1,2,0.5
+1033,Laura,1944,1,5,0.2
+1034,The Lavender Hill Mob,1952,1,2,0.5
+1035,Lawrence of Arabia,1962,7,10,0.7
+1036,Leave Her to Heaven,1945,1,4,0.25
+1037,Lend a Paw,1941,1,1,1.0
+1038,Les Girls,1957,1,3,0.333
+1039,A Letter to Three Wives,1949,2,3,0.667
+1040,The Life of Emile Zola,1937,3,10,0.3
+1041,Light in the Window,1952,1,1,1.0
+1042,Lili,1953,1,6,0.167
+1043,Lilies of the Field,1963,1,5,0.2
+1044,The Little Kidnappers (The Kidnappers),1954,0,0,
+1045,The Little Orphan,1948,1,1,1.0
+1046,Little Women,1932,1,3,0.333
+1047,Little Women,1949,1,2,0.5
+1048,The Lives of a Bengal Lancer,1935,1,7,0.143
+1049,The Living Desert,1953,1,1,1.0
+1050,The Longest Day,1962,2,5,0.4
+1051,Lost Horizon,1937,2,7,0.286
+1052,The Lost Weekend,1945,4,7,0.571
+1053,Love Is a Many-Splendored Thing,1955,3,8,0.375
+1054,Love Me or Leave Me,1955,1,6,0.167
+1055,Lust for Life,1956,1,4,0.25
+1056,Magoo's Puddle Jumper,1956,1,1,1.0
+1057,Main Street on the March!,1941,1,1,1.0
+1058,The Man Who Knew Too Much,1956,1,1,1.0
+1059,Manhattan Melodrama,1934,1,1,1.0
+1060,Marie-Louise,1945,1,1,1.0
+1061,Marty,1955,4,8,0.5
+1062,Mary Poppins,1964,5,13,0.385
+1063,Men Against the Arctic,1955,1,1,1.0
+1064,The Merry Widow,1934,1,1,1.0
+1065,A Midsummer Night's Dream,1935,2,4,0.5
+1066,Mighty Joe Young,1949,1,1,1.0
+1067,Mildred Pierce,1945,1,6,0.167
+1068,The Milky Way,1940,1,1,1.0
+1069,Min and Bill,1930,1,1,1.0
+1070,Miracle on 34th Street,1947,3,4,0.75
+1071,The Miracle Worker,1962,2,5,0.4
+1072,Mister Roberts,1955,1,3,0.333
+1073,Monsieur Vincent,1948,0,0,
+1074,Moonbird,1959,1,1,1.0
+1075,The More the Merrier,1943,1,6,0.167
+1076,Morning Glory,1932,1,1,1.0
+1077,Moscow Strikes Back,1942,1,1,1.0
+1078,Mother Wore Tights,1947,1,3,0.333
+1079,Moulin Rouge,1952,2,7,0.286
+1080,Mouse Trouble,1944,1,1,1.0
+1081,Mr. Deeds Goes to Town,1936,1,5,0.2
+1082,Mr. Smith Goes to Washington,1939,1,11,0.091
+1083,Mrs. Miniver,1942,6,12,0.5
+1084,Munro,1960,1,1,1.0
+1085,The Music Box,1931,1,1,1.0
+1086,The Music Man,1962,1,6,0.167
+1087,Mutiny on the Bounty,1935,1,8,0.125
+1088,My Fair Lady,1964,8,12,0.667
+1089,My Uncle (Mon oncle),1958,1,1,1.0
+1090,My Gal Sal,1942,1,2,0.5
+1091,The Naked City,1948,2,3,0.667
+1092,National Velvet,1945,2,5,0.4
+1093,Nature's Half Acre,1951,1,1,1.0
+1094,Naughty Marietta,1935,1,2,0.5
+1095,Neighbours,1952,1,2,0.5
+1096,Neptune's Daughter,1949,1,1,1.0
+1097,Never on Sunday (Pote tin Kyriaki),1960,1,5,0.2
+1098,The Night of the Iguana,1964,1,4,0.25
+1099,Nights of Cabiria (Le Notti di Cabiria),1957,1,1,1.0
+1100,Nine from Little Rock,1964,1,1,1.0
+1101,None But the Lonely Heart,1944,1,4,0.25
+1102,North West Mounted Police,1940,1,5,0.2
+1103,"Now, Voyager",1942,1,3,0.333
+1104,An Occurrence at Owl Creek Bridge,1963,1,1,1.0
+1105,Of Pups and Puzzles,1941,1,1,1.0
+1106,Oklahoma!,1955,2,4,0.5
+1107,The Old Man and the Sea,1958,1,3,0.333
+1108,The Old Mill,1937,1,1,1.0
+1109,On the Town,1949,1,1,1.0
+1110,On the Waterfront,1954,8,12,0.667
+1111,One Hundred Men and a Girl,1937,1,5,0.2
+1112,One Night of Love,1934,2,6,0.333
+1113,One Way Passage,1932,1,1,1.0
+1114,Overture to The Merry Wives of Windsor,1953,1,1,1.0
+1115,The Paleface,1948,1,1,1.0
+1116,Panic in the Streets,1950,1,1,1.0
+1117,Papa's Delicate Condition,1963,1,1,1.0
+1118,The Patriot,1928,1,5,0.2
+1119,Penny Wisdom,1937,1,1,1.0
+1120,Phantom of the Opera,1943,2,4,0.5
+1121,The Philadelphia Story,1940,2,6,0.333
+1122,Picnic,1955,2,6,0.333
+1123,The Picture of Dorian Gray,1945,1,3,0.333
+1124,Pillow Talk,1959,1,5,0.2
+1125,The Pink Phink,1964,1,1,1.0
+1126,Pinocchio,1940,2,2,1.0
+1127,A Place in the Sun,1951,6,9,0.667
+1128,Plymouth Adventure,1952,1,1,1.0
+1129,Pollyanna,1960,0,0,
+1130,Porgy and Bess,1959,1,4,0.25
+1131,Portrait of Jennie,1948,1,2,0.5
+1132,Prelude to War,1942,1,1,1.0
+1133,Pride and Prejudice,1940,1,1,1.0
+1134,The Pride of the Yankees,1942,1,11,0.091
+1135,Princess O'Rourke,1943,1,1,1.0
+1136,The Private Life of Henry VIII,1932,1,2,0.5
+1137,The Private Life of the Gannets,1937,1,1,1.0
+1138,Project Hope,1961,1,1,1.0
+1139,The Public Pays,1936,1,1,1.0
+1140,Pygmalion,1938,1,4,0.25
+1141,Quicker'n a Wink,1940,1,1,1.0
+1142,The Quiet Man,1952,2,7,0.286
+1143,Quiet Please!,1945,1,1,1.0
+1144,The Rains Came,1939,1,6,0.167
+1145,Rashomon,1951,0,1,0.0
+1146,The Razor's Edge,1946,1,4,0.25
+1147,Reap the Wild Wind,1942,1,3,0.333
+1148,Rebecca,1940,2,11,0.182
+1149,The Red Balloon (Le ballon rouge),1956,1,1,1.0
+1150,The Red Shoes,1948,2,5,0.4
+1151,The Robe,1953,2,5,0.4
+1152,Robert Frost: A Lover's Quarrel with the World,1963,1,1,1.0
+1153,Roman Holiday,1953,3,10,0.3
+1154,Room at the Top,1959,2,6,0.333
+1155,The Rose Tattoo,1955,3,8,0.375
+1156,Sabrina,1954,1,6,0.167
+1157,Samson and Delilah,1950,2,5,0.4
+1158,Samurai I: Musashi Miyamoto (Miyamoto Musashi),1955,0,0,
+1159,San Francisco,1936,1,6,0.167
+1160,Sayonara,1957,4,10,0.4
+1161,The Scoundrel,1935,1,1,1.0
+1162,The Sea Around Us,1952,1,1,1.0
+1163,Seal Island,1948,1,1,1.0
+1164,The Search,1948,1,4,0.25
+1165,Seawards the Great Ships,1961,1,1,1.0
+1166,The Secret Land,1948,1,1,1.0
+1167,Seeds of Destiny,1946,1,1,1.0
+1168,Separate Tables,1958,2,7,0.286
+1169,Serengeti Shall Not Die (Serengeti darf nicht sterben),1959,1,1,1.0
+1170,Sergeant York,1941,2,11,0.182
+1171,Seven Brides for Seven Brothers,1954,1,5,0.2
+1172,Seven Days to Noon,1951,1,1,1.0
+1173,The Seventh Veil,1946,1,1,1.0
+1174,Shane,1953,1,6,0.167
+1175,Shanghai Express,1931,1,3,0.333
+1176,She Wore a Yellow Ribbon,1949,1,1,1.0
+1177,Shoeshine (Sciuscià),1947,0,1,0.0
+1178,The Silent World (Le Monde du silence),1956,1,1,1.0
+1179,The Sin of Madelon Claudet,1931,1,1,1.0
+1180,Since You Went Away,1944,1,9,0.111
+1181,Skippy,1930,1,4,0.25
+1182,Sky Above and Mud Beneath (Le Ciel et la boue),1961,1,1,1.0
+1183,The Snake Pit,1948,1,6,0.167
+1184,Snow White and the Seven Dwarfs,1937,0,1,0.0
+1185,So Much for So Little,1949,1,1,1.0
+1186,So This Is Harris!,1932,1,1,1.0
+1187,The Solid Gold Cadillac,1956,1,2,0.5
+1188,Some Like It Hot,1959,1,6,0.167
+1189,Somebody Up There Likes Me,1956,2,3,0.667
+1190,The Song of Bernadette,1943,4,12,0.333
+1191,Song of the South,1947,1,2,0.5
+1192,Song Without End,1960,1,1,1.0
+1193,Sons and Lovers,1960,1,7,0.143
+1194,Sons of Liberty,1939,1,1,1.0
+1195,South Pacific,1958,1,3,0.333
+1196,Spartacus,1960,4,6,0.667
+1197,Spawn of the North,1938,0,0,
+1198,Speaking of Animals and Their Families,1942,1,1,1.0
+1199,Speedy Gonzales,1955,1,1,1.0
+1200,Spellbound,1945,1,6,0.167
+1201,Splendor in the Grass,1961,1,2,0.5
+1202,Stagecoach,1939,2,7,0.286
+1203,Stairway to Light,1945,1,1,1.0
+1204,Stalag 17,1953,1,3,0.333
+1205,Star in the Night,1945,1,1,1.0
+1206,A Star Is Born,1937,1,7,0.143
+1207,State Fair,1945,1,2,0.5
+1208,The Story of Louis Pasteur,1936,3,4,0.75
+1209,The Stratton Story,1949,1,1,1.0
+1210,Street Angel,1927,1,3,0.333
+1211,A Streetcar Named Desire,1951,4,12,0.333
+1212,Strike Up the Band,1940,1,3,0.333
+1213,The Substitute,1961,1,1,1.0
+1214,Sundays and Cybele (Le Dimanches de Ville d'Avray),1962,1,3,0.333
+1215,Sunrise,1927,3,4,0.75
+1216,Sunset Boulevard,1950,3,11,0.273
+1217,Survival City,1955,1,1,1.0
+1218,Suspicion,1941,1,3,0.333
+1219,Sweet Bird of Youth,1962,1,3,0.333
+1220,Sweethearts,1938,0,2,0.0
+1221,Swing Time,1936,1,2,0.5
+1222,Symphony of a City,1948,1,1,1.0
+1223,Tabu,1930,1,1,1.0
+1224,Target for Tonight,1941,0,0,
+1225,"Teddy, the Rough Rider",1940,1,1,1.0
+1226,Tempest,1927,1,1,1.0
+1227,The Ten Commandments,1956,1,7,0.143
+1228,That Hamilton Woman,1941,1,4,0.25
+1229,That Mothers Might Live,1938,1,1,1.0
+1230,The Thief of Bagdad,1940,3,4,0.75
+1231,The Third Man,1950,1,3,0.333
+1232,Thirty Seconds Over Tokyo,1944,1,2,0.5
+1233,This Above All,1942,1,4,0.25
+1234,This Is the Army,1943,1,3,0.333
+1235,This Land Is Mine,1943,1,1,1.0
+1236,This Mechanical Age,1954,1,1,1.0
+1237,Three Coins in the Fountain,1954,2,3,0.667
+1238,The Three Faces of Eve,1957,1,1,1.0
+1239,Three Little Pigs,1932,1,1,1.0
+1240,Three Orphan Kittens,1935,1,1,1.0
+1241,Through a Glass Darkly (Såsom i en spegel),1961,1,2,0.5
+1242,Thunderball,1965,1,1,1.0
+1243,Thursday's Children,1954,1,1,1.0
+1244,The Time Machine,1960,1,1,1.0
+1245,A Time Out of War,1954,1,1,1.0
+1246,Tin Pan Alley,1940,1,1,1.0
+1247,The Titan: Story of Michelangelo,1950,1,1,1.0
+1248,Titanic,1953,1,2,0.5
+1249,To Catch a Thief,1955,1,3,0.333
+1250,To Each His Own,1946,1,2,0.5
+1251,To Kill a Mockingbird,1962,3,8,0.375
+1252,Tom Jones,1963,4,10,0.4
+1253,tom thumb,1958,1,1,1.0
+1254,"Toot, Whistle, Plunk and Boom",1953,1,1,1.0
+1255,Topkapi,1964,1,1,1.0
+1256,The Tortoise and the Hare,1934,1,1,1.0
+1257,Torture Money,1937,1,1,1.0
+1258,Toward Independence,1948,1,1,1.0
+1259,Transatlantic,1931,1,1,1.0
+1260,The Treasure of the Sierra Madre,1948,3,4,0.75
+1261,A Tree Grows in Brooklyn,1945,1,2,0.5
+1262,The True Glory,1945,1,1,1.0
+1263,The True Story of the Civil War,1956,1,1,1.0
+1264,Tweetie Pie,1947,1,1,1.0
+1265,Twelve O'Clock High,1949,2,4,0.5
+1266,Two Arabian Knights,1927,1,1,1.0
+1267,The Two Mouseketeers,1951,1,1,1.0
+1268,Two Women (La Ciociara),1961,1,1,1.0
+1269,The Ugly Duckling,1939,1,1,1.0
+1270,Underworld,1927,1,1,1.0
+1271,The V.I.P.s,1963,1,1,1.0
+1272,Vacation from Marriage (UK title Perfect Strangers),1946,1,1,1.0
+1273,Van Gogh,1949,1,1,1.0
+1274,The Vanishing Prairie,1954,1,1,1.0
+1275,The Virgin Spring (Jungfrukällan),1960,1,2,0.5
+1276,Viva Villa!,1934,1,4,0.25
+1277,Viva Zapata!,1952,1,5,0.2
+1278,Waikiki Wedding,1937,1,2,0.5
+1279,The Walls of Malapaga,1950,0,0,
+1280,The War of the Worlds,1953,1,3,0.333
+1281,Watch on the Rhine,1943,1,4,0.25
+1282,Water Birds,1952,1,1,1.0
+1283,The Way of All Flesh,1927,1,1,1.0
+1284,West Side Story,1961,10,11,0.909
+1285,The Westerner,1940,1,3,0.333
+1286,The Wetback Hound,1957,1,1,1.0
+1287,What Ever Happened to Baby Jane?,1962,1,5,0.2
+1288,When Tomorrow Comes,1939,1,1,1.0
+1289,When Magoo Flew,1954,1,1,1.0
+1290,When Worlds Collide,1951,1,2,0.5
+1291,White Shadows in the South Seas,1928,1,1,1.0
+1292,White Wilderness,1958,1,2,0.5
+1293,Who's Who in Animal Land,1944,1,1,1.0
+1294,Why Korea?,1950,1,1,1.0
+1295,Wilson,1944,5,10,0.5
+1296,Wings,1927,2,2,1.0
+1297,Wings Over Everest,1935,1,1,1.0
+1298,With a Song in My Heart,1952,1,5,0.2
+1299,With Byrd at the South Pole,1929,1,1,1.0
+1300,With the Marines at Tarawa,1944,1,1,1.0
+1301,The Wizard of Oz,1939,2,6,0.333
+1302,Woman of the Year,1942,1,2,0.5
+1303,Wonder Man,1945,1,4,0.25
+1304,The Wonderful World of the Brothers Grimm,1962,1,4,0.25
+1305,World of Kids,1951,1,1,1.0
+1306,World Without Sun (Le Monde sans soleil),1964,1,1,1.0
+1307,Wrestling Swordfish,1931,1,1,1.0
+1308,Written on the Wind,1956,1,3,0.333
+1309,Wuthering Heights,1939,1,8,0.125
+1310,Yankee Doodle Dandy,1942,3,8,0.375
+1311,The Yankee Doodle Mouse,1943,1,1,1.0
+1312,The Yearling,1946,2,7,0.286
+1313,"Yesterday, Today and Tomorrow (Ieri, oggi, domani)",1964,1,1,1.0
+1314,You Can't Take It with You,1938,2,7,0.286
+1315,Zorba the Greek (Alexis Zorbas),1964,3,7,0.429
