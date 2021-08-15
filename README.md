@@ -19,7 +19,7 @@ In our analysis we explore and answer the following questions:
 4. Which actors and directors tend to add the most value?
 5. How much money should you spend to win an Oscar?
 6. What impact, if any, does runtime and movie rating have on Net Profit, Profit Margin and IMDb rating?
-7. Sticking to our analysis of Net Profit and Profit Margin, what should Microsoft determine to be the baseline for sustainable success?
+7. Sticking to our analysis of Net Profit and Profit Margin, what should our Company determine to be the baseline for sustainable success?
 8. Based on the success of current competitors, which should we look to for best practices?
 
 
