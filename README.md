@@ -1,11 +1,14 @@
 # Project Overview
-Our hypothetical Company has announced that they would like to get into the movie industry. They will be creating a studio, however they have no knowledge of the movie industry. My goal is to collect, clean, and analyze movie data from a variety of sources so that I can provide recommendations to the company that will allow them to be successful in the movie industry.
+
+*Our hypothetical Company has announced that they would like to get into the movie industry. They will be creating a studio, however they have no knowledge of the movie industry. My goal is to collect, clean, and analyze movie data from a variety of sources so that I can provide recommendations to the company that will allow them to be successful in the movie industry.*
 
 
-## Python Libaries Used: pandas,numpy, seaborn, matplotlip, datetime
+## Python Libaries Used: 
+### *pandas,numpy, seaborn, matplotlip, datetime*
 
 ## Data and Exploration
 ### Web-scrapping<br />
+
 The web-scraped data used in this project was collected from the following sources:
 
 1. https://www.the-numbers.com/movie/budgets/all/1
@@ -15,7 +18,9 @@ The web-scraped data used in this project was collected from the following sourc
 5. https://en.wikipedia.org/wiki/List_of_Academy_Award-winning_films
 
 ### Exploration Questions <br />
+
 In my analysis I explore and answer the following questions:
+
 1. What are the most profitable movies and how much should you spend?
 2. Which movie genres are most commonly produced and does quantity equate to higher net profits?
 3. What is the best time of the year to release a movie?
