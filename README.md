@@ -4,7 +4,7 @@
 
 
 ## Python Libaries Used: 
-### *pandas,numpy, seaborn, matplotlip, datetime*
+### *pandas, numpy, seaborn, matplotlip, datetime*
 
 ## Data and Exploration
 ### Web-scrapping<br />
@@ -31,6 +31,7 @@ In my analysis I explore and answer the following questions:
 8. Based on the success of current competitors, which should we look to for best practices?
 
 ## Question 1: What are the most profitable movies and how much should you spend?
+
 To answer this question and provide a recommendation we'll make use of a budgets dataframe called `imdb_budgets_df`. Our analysis will require that we use the data to calculate profit and profit margin.
 
 ```
@@ -69,6 +70,7 @@ Lastly, we look at the percent of net profit by genre. This informs us as to how
 **Question 2 Conclusion:** Animation, adventure, and sci-Fi have the highest net profit of all genres. Analysis of profit margin shows that in addition animation, adventure, and sci-fi, horrors and musicals also have financial success.
 
 ## Question 3: What is the best time of the year to release a movie?
+
 We start by converting the dates from the `imdb_budgets_df` dataframe to a datetime object.  We then do a count by month to see the number of movies released in each month.
 
 When grouping by month, we can select the `Net Profit` and `Profit Margin` columns so that we can see which months have the most financial success.
@@ -82,6 +84,7 @@ Finally we plot the net profit by month for a small selection of genres.  We can
 **Question 3 Conclusion:** We recommend that Our Company release the bulk of their movies, especially Animation, during the summer months (i.e. May-July). Adventure, Drama and Comedy movies would see similar success if released in November, but the recommendation remains to focus on summer.
 
 ## Question 4: Which actors and directors tend to add the most value?
+
 In this section we are going to take a look at the average net profit across all movies. From there we want to determine which actors and directors consistently appear in movies where the net profit substantially exceeds the average. We will represent this in a field called Value Above Replacement(VAR). To further simplify this concept; if across all movies the average net profit is 100 dollars and the average net profit of movies from 'Actor: X' is 200 dollars he/she would have a VAR of 2. This number represents X times over the average. To eliminate outliers we will look at actors who appear in 10 or more movies and directors who work in 5 or more.
 
 We'll use the `actors_df` dataframe, adjust for inflation, and calculate profit as we did in Question 1. Then filter by actors who have starred in 10 or more movies.
@@ -107,6 +110,7 @@ We follow the same process with directors, except we filter by using 5 or more m
 **Question 4 Conclusion:** We recommend that Our Company focus their cast and crew search to individuals who consistently score at least 1.0 on the VAR score. We can, with a high level of confidence, conclude that these individuals will elevate the overall production.
 
 ## Question 5: How much money should you spend on a movie to win an Oscar?
+
 In this analysis we will join the `imdb_budgets_df` and `awards_df` dataframes so that we explore correlations between budgets and Oscar wins. We first look at a distribution of the budget for movies that have been Oscar-nominated.  We also look at the win rates for the nominated movies so that we can establish the minimum number of nominations required to secure at least one win. For this analysis the minimum number or nominations 
 required was three.
 
@@ -129,6 +133,7 @@ It's also important to see the net profits of each rating by genre. We first do 
 **Question 6 Conclusion:** We recommend that Microsoft take into consideration the rating of the movie based on the genre and target audience. If making animation movies, it is wise to stick to a G or PG rating, otherwise PG-13 is the sweetspot. In terms of runtime, there is little correlation in terms of overall profitability.
 
 ## Question 7: Sticking to our analysis of Net Profit and Profit Margin, what should Microsoft determine to be the baseline for sustainable success?
+
 This analysis will require the use of the `studiobudgets_df dataframe`.  We first drop non-pertinent rows so that we can just focus on the studio performance. As we've done with other analyses, we use `groupby` and select the median as the primary measure of central tendency.
 We only select the top 25 studios as we are concerned with both being financial successful as well as being recognized as one of the major studios in the industry.
 
@@ -138,6 +143,7 @@ We only select the top 25 studios as we are concerned with both being financial 
 **Question 7 Conclusion:** Our Company should aim for a profit margin of 66% and a net profit of slightly over 50 million per movie to compete with the top existing studios.
 
 ## Question 8: Based on the success of current competitors, which should we look to for best practices?
+
 We take the `theaters_df` dataframe and a column called `dollars_per_theater` to see what the average domestic gross per theater is for a movie.  We then `groupby` by studio so that we can compare each studio.
 
 ![DomesticPerTheater](visuals/DomesticPerTheater.png)
